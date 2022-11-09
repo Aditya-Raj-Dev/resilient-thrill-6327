@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
 
 const CatSlider = () => {
     return (
-        <Box h={"200px"}>
+        <Box >
         <Flex justifyContent={"space-between"} p={5}>
 
             <Swiper
@@ -39,90 +39,90 @@ const CatSlider = () => {
 
 
                 <SwiperSlide>
-                    <Box border={"1px solid green"} w={"100px"} h={"100px"}>
+                    <Box  >
                         
-                            <Image w={"80px"} h={"60px"} src="https://assets.pharmeasy.in/apothecary/images/medicine_ff.webp?dim=256x0" />
+                            <Image  src="https://assets.pharmeasy.in/apothecary/images/medicine_ff.webp?dim=256x0" />
                         
-                        <Heading as='h4' size='sm'>
+                        <Heading  size='xs'>
                             Medicine
                         </Heading>
-                        <Heading as='h4' size='sm' color={"red"}>
+                        <Heading  size='xs' color={"red"}>
                             UPTO 20% OFF
                         </Heading>
                     </Box>
                     
                 </SwiperSlide>
                 <SwiperSlide>
-                    <Box border={"1px solid green"} w={"100px"} h={"100px"}>
+                    <Box  >
                         <Link to="/">
-                            <Image w={"80px"} h={"60px"} src="https://assets.pharmeasy.in/apothecary/images/labtest_ff.webp?dim=720x0" />
+                            <Image  src="https://assets.pharmeasy.in/apothecary/images/labtest_ff.webp?dim=720x0" />
                         </Link>
-                        <Heading as='h4' size='sm'>
+                        <Heading  size='xs'>
                             Lab Tests
                         </Heading>
-                        <Heading as='h4' size='sm' color={"red"}>
+                        <Heading  size='xs' color={"red"}>
                             UPTO 70% OFF
                         </Heading>
                     </Box>
                 </SwiperSlide>
                 <SwiperSlide>
-                    <Box border={"1px solid green"} w={"100px"} h={"100px"}>
+                    <Box  >
                         <Link to="/">
-                            <Image w={"80px"} h={"60px"} src="https://assets.pharmeasy.in/apothecary/images/healthcare_ff.webp?dim=720x0" />
+                            <Image  src="https://assets.pharmeasy.in/apothecary/images/healthcare_ff.webp?dim=720x0" />
                         </Link>
-                        <Heading as='h4' size='sm'>
+                        <Heading  size='xs'>
                             Healthcare
                         </Heading>
-                        <Heading as='h4' size='sm' color={"red"}>
+                        <Heading  size='xs' color={"red"}>
                             UPTO 60% OFF
                         </Heading>
                     </Box>
                 </SwiperSlide>
                 <SwiperSlide>
-                    <Box border={"1px solid green"} w={"100px"} h={"100px"}>
+                    <Box  >
                         <Link to="/">
-                            <Image w={"80px"} h={"60px"} src="https://assets.pharmeasy.in/apothecary/images/plus_ff.webp?dim=720x0" />
+                            <Image  src="https://assets.pharmeasy.in/apothecary/images/plus_ff.webp?dim=720x0" />
                         </Link>
-                        <Heading as='h4' size='sm'>
+                        <Heading  size='xs'>
                             Plus
                         </Heading>
-                        <Heading as='h4' size='sm' color={"red"}>
+                        <Heading  size='xs' color={"red"}>
                             SAVE 5% EXTRA
                         </Heading>
                     </Box>
                 </SwiperSlide>
                 <SwiperSlide>
-                    <Box border={"1px solid green"} w={"100px"} h={"100px"}>
+                    <Box  >
                         <Link to="/">
-                            <Image w={"80px"} h={"60px"} src="https://assets.pharmeasy.in/apothecary/images/offers_ff.webp?dim=720x0" />
+                            <Image  src="https://assets.pharmeasy.in/apothecary/images/offers_ff.webp?dim=720x0" />
                         </Link>
-                        <Heading as='h4' size='sm'>
+                        <Heading  size='xs'>
                             Offers
                         </Heading>
                         
                     </Box>
                 </SwiperSlide>
                 <SwiperSlide>
-                    <Box border={"1px solid green"} w={"100px"} h={"100px"}>
+                    <Box  >
                         <Link to="/">
-                            <Image w={"80px"} h={"60px"} src="https://assets.pharmeasy.in/apothecary/images/offers_1_ff.webp?dim=720x0" />
+                            <Image  src="https://assets.pharmeasy.in/apothecary/images/offers_1_ff.webp?dim=720x0" />
                         </Link>
-                        <Heading as='h4' size='sm'>
+                        <Heading  size='xs'>
                             Surgiries
                         </Heading>
                         
                     </Box>
                 </SwiperSlide>
                 <SwiperSlide>
-                    <Box border={"1px solid green"} w={"100px"} h={"100px"}>
+                    <Box  >
                         <Link to="/">
-                            <Image w={"80px"} h={"60px"} src="https://assets.pharmeasy.in/apothecary/images/value_store.png?dim=720x0" />
+                            <Image  src="https://assets.pharmeasy.in/apothecary/images/value_store.png?dim=720x0" />
                         </Link>
-                        <Heading as='h4' size='sm'>
-                            Healthcare
+                        <Heading  size='xs'>
+                            Value Store
                         </Heading>
-                        <Heading as='h4' size='sm' color={"red"}>
-                            UPTO 60% OFF
+                        <Heading  size='xs' color={"red"}>
+                            UPTO 50% OFF
                         </Heading>
                     </Box>
                 </SwiperSlide>
