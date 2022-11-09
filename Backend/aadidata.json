@@ -1,0 +1,1419 @@
+{
+
+    "covid": [
+        {
+          "id": "c116",
+          "name": "Dettol Antiseptic Liquid Bottle Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-2-1656923531.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.1-1656923485.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.2-1656923443.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.3-1656923449.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.9-1656923456.jpg"
+                ],
+          "price":29.94,
+          "cost": 33.27,
+          "pack":[60,125,250,550,100],
+          "off": "8% off",
+          "category":"covid"
+        },
+        {
+          "id": "c216",
+          "name": "Pharmeasy All-In -One Vaporizer",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-1-1654233812.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-2-1654233960.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-3-1654233960.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-6.1-1654233944.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-1-1654233812.jpg"
+                ],
+          "price": 269.55,
+          "cost": 549,
+          "off": "55% off"
+        },
+        {
+          "id": "c316",
+          "name": "Becozym C Forte ( Vitamin B Complex + Biotin + Vitamin C )- Strip Of 15 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-1-1654077406.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2-1654077421.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2.1-1641398864.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.1-1641398853.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.3-1641398850.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price": 25.21,
+          "cost": 27.4,
+          "off": "8% off"
+        },
+        {
+          "id": "c416",
+          "name": "Revital H Women Multivitamin With Calcium, Zinc, Ginseng For Immunity, Strong Bones & Energy 30 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-1-1654168794.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-2-1654168765.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-3-1654168762.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.2-1641398764.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.3-1641398752.jpg"
+        ],
+          "price": 306,
+          "cost": 360,
+          "off": "7% off"
+        },
+        {
+          "id": "c516",
+          "name": "Everherb (By Pharmeasy) Aloe Amla Juice - Detoxifies Toxins - Rich In Vitamins & Minerals - 1 Litre",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/G44336/everherb-aloe-amla-juice-detoxifies-toxins-rich-in-vitamins-minerals-1-litre-2-1641793063.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/S16091/everherb-amla-giloy-juice-powerfull-immunity-booster-rich-in-vitamin-c-1-litre-2-1641792598.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/S16091/everherb-amla-giloy-juice-powerfull-immunity-booster-rich-in-vitamin-c-1-litre-7-1641792595.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "cost": 750,
+          "off": "7% off"
+        },
+        {
+          "id": "c616",
+          "name": "Depura, 60000 Iu Vitamin D3 Oral Solution,Helps Bones Healthy, Aids In Boosting Immunity, Sugarfree",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-2-1654077895.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-6.2-1653910375.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-6.4-1653910373.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-6.5-1653910404.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-6.6-1653910409.jpg"
+        ],
+          "price": 75.99,
+          "cost": 94.99,
+          "off": "20% off"
+        },
+        {
+          "id": "c716",
+          "name": "Revital H Men Multivitamin With Calcium, Zinc & Ginseng For Immunity, Strong Bones & Energy",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-2-1654077741.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-3-1654078581.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.1-1641398821.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.2-1641398805.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.6-1641398808.jpg"
+        ],
+          "price":263.5,
+          "cost":310,
+          "pack":[30,60],
+          "off": "15% off"
+          
+        },
+        {
+          "id": "c816",
+          "name": "Revital H Women Multivitamin With Calcium, Zinc, Ginseng For Immunity, Strong Bones & Energy 10 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-10-tablets-2-1654077742.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-10-tablets-3-1654077635.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-6.1-1641398698.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-6.2-1641398694.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-6.3-1641398691.jpg"
+        ],
+          "price":106.25,
+          "cost": 125,
+          "off": "7% off"
+        },
+        {
+          "id": "c916",
+          "name": "Revital H Energy Nxt Yoghurt Berry Bar",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-1-1641794143.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-2-1641794153.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-4-1641794138.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-6.1-1641794132.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-6.3-1641794135.jpg"
+        ],
+          "price": 45,
+          "cost": 50,
+          "off": "10% off"
+        },
+        {
+          "id": "c1016",
+          "name": "Dettol Liquid Handwash Refill - Original Germ Protection Hand Wash",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-2-1641787745.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-6.1-1641787745.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-6.2-1641787747.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-6.5-1641787746.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-7-1641787739.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":42,
+          "cost": 50,
+          "pack":[175,750],
+          "off": "14% off"
+        },
+        {
+          "id": "c1116",
+          "name": "Seacod 110 Cod Liver Oil Capsules Bottle Of 110",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-1-1632774258.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-2-1632774255.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-3-1659008147.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":282.38,
+          "cost":352.98,
+          "off": "20% off"
+        },
+        {
+          "id": "c1216",
+          "name": "Vicks Vaporub, Relief From Cold, Cough, Headache And Body Pain",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-2-1654078748.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-3-1654078369.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-6.2-1642572658.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-7-1654078746.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-6.3-1642572654.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":21.78,
+          "cost": 22,
+          "pack":[5,10,20,50,110],
+          "off": "1% off"
+        },
+        {
+          "id": "c1316",
+          "name": "Liveasy Wellness Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1661760039.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1661760039.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.1-1661760099.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":664.05,
+          "cost": 699,
+          "pack":[60,90],
+          "off": "5% off"
+        },
+        {
+          "id": "c1416",
+          "name": "Coviself Covid Self Test Kit",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.1-1644415311.jpghttps://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.1-1644415311.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-2-1644415093.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.2-1644415325.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.3-1644415223.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.6-1644415204.jpg"
+        ],
+          "price": 225,
+          "cost": 250,
+          "off": "8% off"
+        },
+        {
+          "id": "c1516",
+          "name": "Dettol Liquid Disinfectant For Floor Cleaner, Surface Disinfection Personal Hygiene Lime Fresh",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-2-1654166123.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-3-1654166132.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.2-1641788106.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.3-1641788114.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.4-1641788110.jpg"
+        ],
+          "price":165,
+          "cost": 193,
+          "pack":[200,500],
+          "off": "18% off"
+        },
+        {
+          "id": "c1616",
+          "name": "Amrutanjan Relief Nasal Inhaler - 0.75g",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-2-1662715214.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-3-1662715212.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-6.1-1662715206.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-6.2-1662715208.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-6.3-1662715216.jpg"
+        ],
+          "price": 37,
+          "cost": 45,
+          "off": "16% off"
+        },
+        {
+          "id": "c1716",
+          "name": "Vicks Inhaler Keychain Pack Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-2-1654166287.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-3-1654166287.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-6.1-1641788240.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-6.3-1641788234.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-6.4-1641788239.jpg"
+        ],
+          "price":61.38,
+          "cost": 62,
+          "pack":[10,20],
+          "off": "1% off"
+        },
+        {
+          "id": "c1816",
+          "name": "Baidyanath Chyawanprash Special - Immunity & Omniprotection | 52 Ayurvedic Ingredients",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I41646/baidyanath-chyawanprash-special-immunity-omniprotection-52-ayurvedic-ingredients-500g-2-1654166032.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41646/baidyanath-chyawanprash-special-immunity-omniprotection-52-ayurvedic-ingredients-500g-6.1-1641788147.jpg"
+          
+        ],
+          "price": 88,
+          "cost": 110,
+          "pack":[250,500,950],
+          "off": "20% off"
+        },
+        {
+          "id": "c1916",
+          "name": "Everherb (By Pharmeasy) Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief - Bottle Of Faces Canada Ultime Pro Matte Play Eyeliner",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1661760071.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1661760093.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.2-1661760144.jpg"
+        ],
+          "price":539,
+          "cost":599,
+          "pack":[100,200],
+          "off": "10% off"
+        },
+        {
+          "id": "c2016",
+          "name": "Dettol Disinfectant Sanitizer Spray Bottle -Spring Blossom,",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-2-1654234201.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-3-1654234069.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-6.1-1641793422.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-6.3-1641793416.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-6.4-1641793424.jpg"
+        ],
+          "price":136.74,
+          "cost": 159,
+          "off": "14% off"
+        },
+        {
+          "id": "c2116",
+          "name": "Savlon Antiseptic Disinfectant Liquid",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-2-1641398675.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.1-1641398678.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.2-1641398676.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.3-1641398679.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-7-1641398673.jpg"
+        ],
+          "price":20.75,
+          "cost": 25,
+          "pack":[50,100,1000],
+          "off": "5% off"
+        },
+        {
+          "id": "c2216",
+          "name": "Liveasy Essentials Instant Hand Sanitizer-Kills 99.9% Germs - Gel Based - 200ml",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/G99739/liveasy-essentials-instant-hand-sanitizer-kills-999-germs-gel-based-200ml-2-1661760163.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/G99739/liveasy-essentials-instant-hand-sanitizer-kills-999-germs-gel-based-200ml-2-1661760163.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/G99739/liveasy-essentials-instant-hand-sanitizer-kills-999-germs-gel-based-200ml-7-1661760147.jpg?dim=100x0&dpr=1&q=100"
+         
+        ],
+          "price":80,
+          "cost":100,
+          "off": "20% off"
+        },
+        {
+          "id": "c2316",
+          "name": "Garlic Pearls Healthy Heart & Digestion Capsules Bottle Of 100",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-1-1654078628.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-2-1654078335.jpghttps://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.1-1641398678.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-3-1654078275.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-6.1-1641398915.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-6.2-1641398925.jpg"
+        ],
+          "price":120,
+          "cost": 150,
+          "off": "20% off"
+        },
+        {
+          "id": "c2416",
+          "name": "Otrivin Paediatric 0.05 % Nasal Drops 10 Ml",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-1-1641788150.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-2-1641788149.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-3-1641788151.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-7-1641788149.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-5.2-1641788150.jpg"
+        ],
+          "price": 46.88,
+          "cost": 48.88,
+          "off": "4% off"
+        },
+        {
+          "id": "c2516",
+          "name": "Ourdaily Vitamin C ( 500mg ) & Zinc Chewable Tablets-Builds Immunity - Lemony Orange- 15 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-1-1654169463.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-2-1654169622.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-3-1654169441.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-6.1-1641789369.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-6.2-1641789372.jpg"
+        ],
+          "price":48.3,
+          "cost": 69,
+          "off": "30% off"
+        },
+        {
+          "id": "c2616",
+          "name": "Dabur Chyawanprash - 2 X Immunity - 500 Gm With 50 Gm Free",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-2-1654233771.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-3-1654233744.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-6.1-1641790235.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-6.2-1641790223.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-6.3-1641790231.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price": 204,
+          "cost":230,
+          "pack":[500,1000,2000],
+          "off": "5% off"
+        },
+        {
+          "id": "c2716",
+          "name": "Accusure Digital Thermometers Mt 1027 Hard Tip (White)",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-1-1641789880.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-2-1641789875.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-6.1-1641789882.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-6.2-1641789877.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-6.3-1641789885.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":161.5,
+          "cost": 170,
+          "off": "5% off"
+        },  {
+          "id": "c2816",
+          "name": "Dettol Antiseptic Liquid Bottle Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-2-1656923531.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.1-1656923485.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.2-1656923443.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.3-1656923449.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.9-1656923456.jpg"
+                ],
+          "price":29.94,
+          "cost": 33.27,
+          "pack":[60,125,250,550,100],
+          "off": "8% off",
+          "category":"covid"
+        },
+        {
+          "id": "c2916",
+          "name": "Pharmeasy All-In -One Vaporizer",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-1-1654233812.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-2-1654233960.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-3-1654233960.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-6.1-1654233944.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-1-1654233812.jpg"
+                ],
+          "price": 269.55,
+          "cost": 549,
+          "off": "55% off"
+        },
+        {
+          "id": "c3016",
+          "name": "Becozym C Forte ( Vitamin B Complex + Biotin + Vitamin C )- Strip Of 15 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-1-1654077406.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2-1654077421.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2.1-1641398864.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.1-1641398853.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.3-1641398850.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price": 25.21,
+          "cost": 27.4,
+          "off": "8% off"
+        },
+        {
+          "id": "c3116",
+          "name": "Revital H Women Multivitamin With Calcium, Zinc, Ginseng For Immunity, Strong Bones & Energy 30 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-1-1654168794.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-2-1654168765.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-3-1654168762.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.2-1641398764.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.3-1641398752.jpg"
+        ],
+          "price": 306,
+          "cost": 360,
+          "off": "7% off"
+        },
+        {
+          "id": "c3216",
+          "name": "Everherb (By Pharmeasy) Aloe Amla Juice - Detoxifies Toxins - Rich In Vitamins & Minerals - 1 Litre",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/G44336/everherb-aloe-amla-juice-detoxifies-toxins-rich-in-vitamins-minerals-1-litre-2-1641793063.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/S16091/everherb-amla-giloy-juice-powerfull-immunity-booster-rich-in-vitamin-c-1-litre-2-1641792598.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/S16091/everherb-amla-giloy-juice-powerfull-immunity-booster-rich-in-vitamin-c-1-litre-7-1641792595.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "cost": 750,
+          "off": "7% off"
+        },
+        {
+          "id": "c3316",
+          "name": "Depura, 60000 Iu Vitamin D3 Oral Solution,Helps Bones Healthy, Aids In Boosting Immunity, Sugarfree",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-2-1654077895.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-6.2-1653910375.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-6.4-1653910373.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-6.5-1653910404.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-6.6-1653910409.jpg"
+        ],
+          "price": 75.99,
+          "cost": 94.99,
+          "off": "20% off"
+        },
+        {
+          "id": "c3416",
+          "name": "Revital H Men Multivitamin With Calcium, Zinc & Ginseng For Immunity, Strong Bones & Energy",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-2-1654077741.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-3-1654078581.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.1-1641398821.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.2-1641398805.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.6-1641398808.jpg"
+        ],
+          "price":263.5,
+          "cost":310,
+          "pack":[30,60],
+          "off": "15% off"
+          
+        },
+        {
+          "id": "c3516",
+          "name": "Revital H Women Multivitamin With Calcium, Zinc, Ginseng For Immunity, Strong Bones & Energy 10 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-10-tablets-2-1654077742.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-10-tablets-3-1654077635.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-6.1-1641398698.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-6.2-1641398694.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-6.3-1641398691.jpg"
+        ],
+          "price":106.25,
+          "cost": 125,
+          "off": "7% off"
+        },
+        {
+          "id": "c3616",
+          "name": "Revital H Energy Nxt Yoghurt Berry Bar",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-1-1641794143.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-2-1641794153.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-4-1641794138.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-6.1-1641794132.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-6.3-1641794135.jpg"
+        ],
+          "price": 45,
+          "cost": 50,
+          "off": "10% off"
+        },
+        {
+          "id": "c3716",
+          "name": "Dettol Liquid Handwash Refill - Original Germ Protection Hand Wash",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-2-1641787745.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-6.1-1641787745.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-6.2-1641787747.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-6.5-1641787746.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-7-1641787739.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":42,
+          "cost": 50,
+          "pack":[175,750],
+          "off": "14% off"
+        },
+        {
+          "id": "c3816",
+          "name": "Seacod 110 Cod Liver Oil Capsules Bottle Of 110",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-1-1632774258.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-2-1632774255.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-3-1659008147.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":282.38,
+          "cost":352.98,
+          "off": "20% off"
+        },
+        {
+          "id": "c3916",
+          "name": "Vicks Vaporub, Relief From Cold, Cough, Headache And Body Pain",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-2-1654078748.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-3-1654078369.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-6.2-1642572658.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-7-1654078746.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-6.3-1642572654.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":21.78,
+          "cost": 22,
+          "pack":[5,10,20,50,110],
+          "off": "1% off"
+        },
+        {
+          "id": "c4016",
+          "name": "Liveasy Wellness Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1661760039.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1661760039.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.1-1661760099.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":664.05,
+          "cost": 699,
+          "pack":[60,90],
+          "off": "5% off"
+        },
+        {
+          "id": "c4116",
+          "name": "Coviself Covid Self Test Kit",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.1-1644415311.jpghttps://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.1-1644415311.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-2-1644415093.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.2-1644415325.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.3-1644415223.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.6-1644415204.jpg"
+        ],
+          "price": 225,
+          "cost": 250,
+          "off": "8% off"
+        },
+        {
+          "id": "c4216",
+          "name": "Dettol Liquid Disinfectant For Floor Cleaner, Surface Disinfection Personal Hygiene Lime Fresh",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-2-1654166123.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-3-1654166132.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.2-1641788106.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.3-1641788114.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.4-1641788110.jpg"
+        ],
+          "price":165,
+          "cost": 193,
+          "pack":[200,500],
+          "off": "18% off"
+        },
+        {
+          "id": "c4316",
+          "name": "Amrutanjan Relief Nasal Inhaler - 0.75g",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-2-1662715214.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-3-1662715212.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-6.1-1662715206.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-6.2-1662715208.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-6.3-1662715216.jpg"
+        ],
+          "price": 37,
+          "cost": 45,
+          "off": "16% off"
+        },
+        {
+          "id": "c4416",
+          "name": "Vicks Inhaler Keychain Pack Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-2-1654166287.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-3-1654166287.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-6.1-1641788240.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-6.3-1641788234.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-6.4-1641788239.jpg"
+        ],
+          "price":61.38,
+          "cost": 62,
+          "pack":[10,20],
+          "off": "1% off"
+        },
+        {
+          "id": "c4516",
+          "name": "Baidyanath Chyawanprash Special - Immunity & Omniprotection | 52 Ayurvedic Ingredients",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I41646/baidyanath-chyawanprash-special-immunity-omniprotection-52-ayurvedic-ingredients-500g-2-1654166032.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41646/baidyanath-chyawanprash-special-immunity-omniprotection-52-ayurvedic-ingredients-500g-6.1-1641788147.jpg"
+          
+        ],
+          "price": 88,
+          "cost": 110,
+          "pack":[250,500,950],
+          "off": "20% off"
+        },
+        {
+          "id": "c4616",
+          "name": "Everherb (By Pharmeasy) Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief - Bottle Of Faces Canada Ultime Pro Matte Play Eyeliner",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1661760071.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1661760093.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.2-1661760144.jpg"
+        ],
+          "price":539,
+          "cost":599,
+          "pack":[100,200],
+          "off": "10% off"
+        },
+        {
+          "id": "c4716",
+          "name": "Dettol Disinfectant Sanitizer Spray Bottle -Spring Blossom,",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-2-1654234201.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-3-1654234069.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-6.1-1641793422.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-6.3-1641793416.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-6.4-1641793424.jpg"
+        ],
+          "price":136.74,
+          "cost": 159,
+          "off": "14% off"
+        },
+        {
+          "id": "c4816",
+          "name": "Savlon Antiseptic Disinfectant Liquid",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-2-1641398675.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.1-1641398678.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.2-1641398676.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.3-1641398679.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-7-1641398673.jpg"
+        ],
+          "price":20.75,
+          "cost": 25,
+          "pack":[50,100,1000],
+          "off": "5% off"
+        },
+        {
+          "id": "c4916",
+          "name": "Liveasy Essentials Instant Hand Sanitizer-Kills 99.9% Germs - Gel Based - 200ml",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/G99739/liveasy-essentials-instant-hand-sanitizer-kills-999-germs-gel-based-200ml-2-1661760163.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/G99739/liveasy-essentials-instant-hand-sanitizer-kills-999-germs-gel-based-200ml-2-1661760163.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/G99739/liveasy-essentials-instant-hand-sanitizer-kills-999-germs-gel-based-200ml-7-1661760147.jpg?dim=100x0&dpr=1&q=100"
+         
+        ],
+          "price":80,
+          "cost":100,
+          "off": "20% off"
+        },
+        {
+          "id": "c5016",
+          "name": "Garlic Pearls Healthy Heart & Digestion Capsules Bottle Of 100",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-1-1654078628.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-2-1654078335.jpghttps://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.1-1641398678.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-3-1654078275.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-6.1-1641398915.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-6.2-1641398925.jpg"
+        ],
+          "price":120,
+          "cost": 150,
+          "off": "20% off"
+        },
+        {
+          "id": "c5116",
+          "name": "Otrivin Paediatric 0.05 % Nasal Drops 10 Ml",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-1-1641788150.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-2-1641788149.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-3-1641788151.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-7-1641788149.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-5.2-1641788150.jpg"
+        ],
+          "price": 46.88,
+          "cost": 48.88,
+          "off": "4% off"
+        },
+        {
+          "id": "c5216",
+          "name": "Ourdaily Vitamin C ( 500mg ) & Zinc Chewable Tablets-Builds Immunity - Lemony Orange- 15 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-1-1654169463.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-2-1654169622.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-3-1654169441.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-6.1-1641789369.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-6.2-1641789372.jpg"
+        ],
+          "price":48.3,
+          "cost": 69,
+          "off": "30% off"
+        },
+        {
+          "id": "c5316",
+          "name": "Dabur Chyawanprash - 2 X Immunity - 500 Gm With 50 Gm Free",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-2-1654233771.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-3-1654233744.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-6.1-1641790235.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-6.2-1641790223.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-6.3-1641790231.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price": 204,
+          "cost":230,
+          "pack":[500,1000,2000],
+          "off": "5% off"
+        },
+        {
+          "id": "c5416",
+          "name": "Accusure Digital Thermometers Mt 1027 Hard Tip (White)",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-1-1641789880.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-2-1641789875.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-6.1-1641789882.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-6.2-1641789877.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-6.3-1641789885.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":161.5,
+          "cost": 170,
+          "off": "5% off"
+        } 
+      ],
+
+      "ayurvedic": [
+        {
+          "id": "a116",
+          "name": "Baidyanath Nagpur Aloe Vera Juice With Pulp, Boost Immunity, Better Digestion, No Added Sugar - 1 L",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/B21539/baidyanath-nagpur-aloe-vera-juice-with-pulp-for-immunity-better-digestion-1000-ml-2-1654090474.jpg?dim=700x0&dpr=1&q=100",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/B21539/baidyanath-nagpur-aloe-vera-juice-with-pulp-for-immunity-better-digestion-1000-ml-6.1-1654090433.jpg?dim=100x0&dpr=1&q=100",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/B21539/baidyanath-nagpur-aloe-vera-juice-with-pulp-for-immunity-better-digestion-1000-ml-6.2-1654090429.jpg?dim=100x0&dpr=1&q=100",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/B21539/baidyanath-nagpur-aloe-vera-juice-with-pulp-for-immunity-better-digestion-1000-ml-7-1654090343.jpg?dim=100x0&dpr=1&q=100",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/B21539/baidyanath-nagpur-aloe-vera-juice-with-pulp-for-immunity-better-digestion-1000-ml-6.3-1654090299.jpg?dim=100x0&dpr=1&q=100"
+                ],
+          "price":195,
+          "cost":250,
+          "off": "22% off"
+        },
+        {
+          "id": "a216",
+          "name": "Volini Pain Relief Gel Tube Of ",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/Q40892/volini-pain-relief-gel-tube-of-4-g-2-1661846533.jpg?dim=700x0&dpr=1&q=100",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q40892/volini-pain-relief-gel-tube-of-4-g-6.1-1661846541.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q40892/volini-pain-relief-gel-tube-of-4-g-6.2-1661846540.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q40892/volini-pain-relief-gel-tube-of-4-g-6.3-1661846762.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q40892/volini-pain-relief-gel-tube-of-4-g-6.4-1661846557.jpg"
+                ],
+          "price":8.5,
+          "cost":10,
+          "pack":[4,10,15,30,50,75],
+          "off": "15% off"
+        },
+        {
+          "id": "a316",
+          "name": "Dabur Hajmola Tablets Regular 120 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/051335/dabur-hajmola-tablets-regular-120-tablets-3-1654249333.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/051335/dabur-hajmola-tablets-regular-120-tablets-6.2-1641398942.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/051335/dabur-hajmola-tablets-regular-120-tablets-6.1-1641398945.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/051335/dabur-hajmola-tablets-regular-120-tablets-6.3-1641398935.jpg"
+        ],
+          "price": 52.25,
+          "cost": 55,
+          "off": "5% off"
+        },
+        {
+          "id": "a416",
+          "name": "Dr. Vaidya'S Herbo24turbo Capsules | Ayurvedic Shilajit Vitalizer For Men | 30 Capsules",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I42078/dr-vaidyas-herbo24turbo-capsules-ayurvedic-shilajit-vitalizer-for-men-30-capsules-2-1654165919.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I42078/dr-vaidyas-herbo24turbo-capsules-ayurvedic-shilajit-vitalizer-for-men-30-capsules-6.1-1641788388.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I42078/dr-vaidyas-herbo24turbo-capsules-ayurvedic-shilajit-vitalizer-for-men-30-capsules-6.2-1641788389.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I42078/dr-vaidyas-herbo24turbo-capsules-ayurvedic-shilajit-vitalizer-for-men-30-capsules-6.3-1641788390.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I42078/dr-vaidyas-herbo24turbo-capsules-ayurvedic-shilajit-vitalizer-for-men-30-capsules-6.4-1641788392.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":385,
+          "cost": 500,
+          "off": "23% off"
+        },
+
+
+
+
+        {
+          "id": "a516",
+          "name": "Patanjali Divya Honey 1 Kg",
+          "img": ["hhttps://cdn01.pharmeasy.in/dam/products_otc/Y42530/patanjali-honey-1-kg-2-1641790232.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/Y42530/patanjali-honey-1-kg-2-1641790232.jpg?dim=700x0&dpr=1&q=100"
+        ],
+          "cost": 750,
+          "off": "7% off"
+        },
+
+        {
+          "id": "a616",
+          "name": "Everherb (By Pharmeasy) Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief - Bottle Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1661760071.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1661760093.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.2-1661760144.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":539,
+          "cost": 599,
+          "pack":[60,90],
+          "off": "10% off"
+        },
+        {
+          "id": "a716",
+          "name": "Everherb (By Pharmeasy) Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief - Bottle Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-2-1654077741.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-3-1654078581.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.1-1641398821.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.2-1641398805.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.6-1641398808.jpg"
+        ],
+          "price":263.5,
+          "cost":310,
+          "pack":[30,60],
+          "off": "15% off"
+          
+        },
+        
+        {
+          "id": "a816",
+          "name": "Revital H Women Multivitamin With Calcium, Zinc, Ginseng For Immunity, Strong Bones & Energy 10 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-10-tablets-2-1654077742.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-10-tablets-3-1654077635.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-6.1-1641398698.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-6.2-1641398694.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-6.3-1641398691.jpg"
+        ],
+          "price":106.25,
+          "cost": 125,
+          "off": "7% off"
+        },
+        {
+          "id": "a916",
+          "name": "Gas O Fast Active Jeera Antacid Sachet Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I34550/gas-o-fast-active-jeera-antacid-sachet-of-5-g-2-1661321275.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I34550/gas-o-fast-active-jeera-antacid-sachet-of-5-g-6.1-1659518042.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-4-1641794138.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I34550/gas-o-fast-active-jeera-antacid-sachet-of-5-g-6.2-1659518084.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I34550/gas-o-fast-active-jeera-antacid-sachet-of-5-g-6.3-1659517974.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":8.5,
+          "cost": 10,
+          "pack":[5,30],
+          "off": "10% off"
+        },
+
+        {
+          "id": "a1016",
+          "name": "Dettol Liquid Handwash Refill - Original Germ Protection Hand Wash",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-2-1641787745.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-6.1-1641787745.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-6.2-1641787747.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-6.5-1641787746.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-7-1641787739.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":42,
+          "cost": 50,
+          "pack":[175,750],
+          "off": "14% off"
+        },
+        {
+          "id": "a1116",
+          "name": "Seacod 110 Cod Liver Oil Capsules Bottle Of 110",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-1-1632774258.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-2-1632774255.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-3-1659008147.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":282.38,
+          "cost":352.98,
+          "off": "20% off"
+        },
+        {
+          "id": "a3716",
+          "name": "Dettol Liquid Handwash Refill - Original Germ Protection Hand Wash",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-2-1641787745.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-6.1-1641787745.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-6.2-1641787747.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-6.5-1641787746.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I05057/dettol-liquid-handwash-refill-original-germ-protection-hand-wash-750-ml-7-1641787739.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":42,
+          "cost": 50,
+          "pack":[175,750],
+          "off": "14% off"
+        },
+        {
+          "id": "a3816",
+          "name": "Seacod 110 Cod Liver Oil Capsules Bottle Of 110",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-1-1632774258.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-2-1632774255.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I01462/seacod-110-cod-liver-oil-capsules-bottle-of-110-3-1659008147.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":282.38,
+          "cost":352.98,
+          "off": "20% off"
+        },
+        {
+          "id": "a3916",
+          "name": "Vicks Vaporub, Relief From Cold, Cough, Headache And Body Pain",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-2-1654078748.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-3-1654078369.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-6.2-1642572658.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-7-1654078746.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/181140/vicks-vaporub-50ml-relief-from-cold-cough-headache-and-body-pain-6.3-1642572654.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":21.78,
+          "cost": 22,
+          "pack":[5,10,20,50,110],
+          "off": "1% off"
+        },
+        {
+          "id": "a4016",
+          "name": "Liveasy Wellness Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1661760039.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1661760039.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.1-1661760099.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":664.05,
+          "cost": 699,
+          "pack":[60,90],
+          "off": "5% off"
+        },
+        {
+          "id": "a4116",
+          "name": "Coviself Covid Self Test Kit",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.1-1644415311.jpghttps://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.1-1644415311.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-2-1644415093.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.2-1644415325.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.3-1644415223.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O70942/coviself-covid-self-test-kit-6.6-1644415204.jpg"
+        ],
+          "price": 225,
+          "cost": 250,
+          "off": "8% off"
+        },
+        {
+          "id": "a1216",
+          "name": "Pharmeasy Posture Corrector - Corrects Bad Posture - Eases Neck, Back & Shoulder Pain - Small",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/G63237/pharmeasy-posture-corrector-corrects-bad-posture-eases-neck-back-shoulder-pain-small-2-1656420762.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/G63237/pharmeasy-posture-corrector-corrects-bad-posture-eases-neck-back-shoulder-pain-small-6.1-1656420760.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/G63237/pharmeasy-posture-corrector-corrects-bad-posture-eases-neck-back-shoulder-pain-small-6.2-1656420766.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/G63237/pharmeasy-posture-corrector-corrects-bad-posture-eases-neck-back-shoulder-pain-small-7-1656420764.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/G63237/pharmeasy-posture-corrector-corrects-bad-posture-eases-neck-back-shoulder-pain-small-7-1656420764.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":21.78,
+          "cost": 22,
+          "pack":[5,10,20,50,110],
+          "off": "1% off"
+        },
+        {
+          "id": "a1316",
+          "name": "Liveasy Wellness Multivitamin Multimineral - Immunity Booster - Complete Nutrition - Bottle Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1661760039.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-2-1661760039.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/E79162/liveasy-wellness-multivitamin-multimineral-immunity-booster-complete-nutrition-bottle-of-60-6.1-1661760099.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":664.05,
+          "cost": 699,
+          "pack":[60,90],
+          "off": "5% off"
+        },
+       
+        {
+          "id": "a2016",
+          "name": "Dettol Disinfectant Sanitizer Spray Bottle -Spring Blossom,",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-2-1654234201.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-3-1654234069.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-6.1-1641793422.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-6.3-1641793416.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-6.4-1641793424.jpg"
+        ],
+          "price":136.74,
+          "cost": 159,
+          "off": "14% off"
+        },
+        {
+          "id": "a2116",
+          "name": "Savlon Antiseptic Disinfectant Liquid",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-2-1641398675.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.1-1641398678.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.2-1641398676.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.3-1641398679.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-7-1641398673.jpg"
+        ],
+          "price":20.75,
+          "cost": 25,
+          "pack":[50,100,1000],
+          "off": "5% off"
+        },
+        {
+          "id": "a2216",
+          "name": "Liveasy Essentials Instant Hand Sanitizer-Kills 99.9% Germs - Gel Based - 200ml",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/G99739/liveasy-essentials-instant-hand-sanitizer-kills-999-germs-gel-based-200ml-2-1661760163.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/G99739/liveasy-essentials-instant-hand-sanitizer-kills-999-germs-gel-based-200ml-2-1661760163.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/G99739/liveasy-essentials-instant-hand-sanitizer-kills-999-germs-gel-based-200ml-7-1661760147.jpg?dim=100x0&dpr=1&q=100"
+         
+        ],
+          "price":80,
+          "cost":100,
+          "off": "20% off"
+        },
+        {
+          "id": "a2316",
+          "name": "Garlic Pearls Healthy Heart & Digestion Capsules Bottle Of 100",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-1-1654078628.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-2-1654078335.jpghttps://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.1-1641398678.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-3-1654078275.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-6.1-1641398915.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-6.2-1641398925.jpg"
+        ],
+          "price":120,
+          "cost": 150,
+          "off": "20% off"
+        },
+        {
+          "id": "a1416",
+          "name": "Amrutanjan Strong Pain Relief Balm Bottle Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/E30239/amrutanjan-strong-pain-relief-balm-bottle-of-50-ml-2-1654169570.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/E30239/amrutanjan-strong-pain-relief-balm-bottle-of-50-ml-6.1-1641788654.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/E30239/amrutanjan-strong-pain-relief-balm-bottle-of-50-ml-6.2-1641788657.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price": 225,
+          "cost": 250,
+          "pack":[27,55],
+          "off": "8% off"
+        },
+        {
+          "id": "a1516",
+          "name": "Dettol Liquid Disinfectant For Floor Cleaner, Surface Disinfection Personal Hygiene Lime Fresh",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-2-1654166123.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-3-1654166132.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.2-1641788106.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.3-1641788114.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.4-1641788110.jpg"
+        ],
+          "price":165,
+          "cost": 193,
+          "pack":[200,500],
+          "off": "18% off"
+        },
+        {
+          "id": "a1616",
+          "name": "Pharmeasy Hot Water Bag - Relieves Pain - Relaxes Sore Muscles - Improves Blood Supply - Blue - 2l",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/B39499/pharmeasy-hot-water-bag-blue-2-1656420198.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/B39499/pharmeasy-hot-water-bag-blue-6.1-1656420196.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/B39499/pharmeasy-hot-water-bag-blue-6.1-1656420196.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price": 244,
+          "cost": 349,
+          "off": "16% off"
+        },
+        {
+          "id": "a1716",
+          "name": "Vicks Inhaler Keychain Pack Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-2-1654166287.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-3-1654166287.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-6.1-1641788240.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-6.3-1641788234.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-6.4-1641788239.jpg"
+        ],
+          "price":61.38,
+          "cost": 62,
+          "pack":[10,20],
+          "off": "1% off"
+        },
+        {
+          "id": "a1816",
+          "name": "Baidyanath Chyawanprash Special - Immunity & Omniprotection | 52 Ayurvedic Ingredients",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I41646/baidyanath-chyawanprash-special-immunity-omniprotection-52-ayurvedic-ingredients-500g-2-1654166032.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41646/baidyanath-chyawanprash-special-immunity-omniprotection-52-ayurvedic-ingredients-500g-6.1-1641788147.jpg"
+          
+        ],
+          "price": 88,
+          "cost": 110,
+          "pack":[250,500,950],
+          "off": "20% off"
+        },
+        {
+          "id": "a1916",
+          "name": "Everherb (By Pharmeasy) Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief - Bottle Of Faces Canada Ultime Pro Matte Play Eyeliner",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1661760071.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1661760093.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.2-1661760144.jpg"
+        ],
+          "price":539,
+          "cost":599,
+          "pack":[100,200],
+          "off": "10% off"
+        },
+        {
+          "id": "a2416",
+          "name": "Otrivin Paediatric 0.05 % Nasal Drops 10 Ml",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-1-1641788150.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-2-1641788149.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-3-1641788151.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-7-1641788149.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-5.2-1641788150.jpg"
+        ],
+          "price": 46.88,
+          "cost": 48.88,
+          "off": "4% off"
+        },
+        {
+          "id": "a2916",
+          "name": "Pharmeasy All-In -One Vaporizer",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-1-1654233812.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-2-1654233960.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-3-1654233960.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-6.1-1654233944.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-1-1654233812.jpg"
+                ],
+          "price": 269.55,
+          "cost": 549,
+          "off": "55% off"
+        },
+        {
+          "id": "a3016",
+          "name": "Becozym C Forte ( Vitamin B Complex + Biotin + Vitamin C )- Strip Of 15 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-1-1654077406.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2-1654077421.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2.1-1641398864.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.1-1641398853.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.3-1641398850.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price": 25.21,
+          "cost": 27.4,
+          "off": "8% off"
+        },
+        {
+          "id": "a2516",
+          "name": "Ourdaily Vitamin C ( 500mg ) & Zinc Chewable Tablets-Builds Immunity - Lemony Orange- 15 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-1-1654169463.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-2-1654169622.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-3-1654169441.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-6.1-1641789369.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-6.2-1641789372.jpg"
+        ],
+          "price":48.3,
+          "cost": 69,
+          "off": "30% off"
+        },
+        {
+          "id": "a2616",
+          "name": "Dabur Chyawanprash - 2 X Immunity - 500 Gm With 50 Gm Free",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-2-1654233771.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-3-1654233744.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-6.1-1641790235.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-6.2-1641790223.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-6.3-1641790231.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price": 204,
+          "cost":230,
+          "pack":[500,1000,2000],
+          "off": "5% off"
+        },
+        {
+          "id": "a2716",
+          "name": "Accusure Digital Thermometers Mt 1027 Hard Tip (White)",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-1-1641789880.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-2-1641789875.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-6.1-1641789882.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-6.2-1641789877.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-6.3-1641789885.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":161.5,
+          "cost": 170,
+          "off": "5% off"
+        },
+          {
+          "id": "a2816",
+          "name": "Dettol Antiseptic Liquid Bottle Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-2-1656923531.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.1-1656923485.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.2-1656923443.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.3-1656923449.jpg",
+                  "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.9-1656923456.jpg"
+                ],
+          "price":29.94,
+          "cost": 33.27,
+          "pack":[60,125,250,550,100],
+          "off": "8% off",
+          "category":"covid"
+        },
+        
+        {
+          "id": "a3116",
+          "name": "Revital H Women Multivitamin With Calcium, Zinc, Ginseng For Immunity, Strong Bones & Energy 30 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-1-1654168794.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-2-1654168765.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-3-1654168762.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.2-1641398764.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.3-1641398752.jpg"
+        ],
+          "price": 306,
+          "cost": 360,
+          "off": "7% off"
+        },
+        {
+          "id": "a3216",
+          "name": "Everherb (By Pharmeasy) Aloe Amla Juice - Detoxifies Toxins - Rich In Vitamins & Minerals - 1 Litre",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/G44336/everherb-aloe-amla-juice-detoxifies-toxins-rich-in-vitamins-minerals-1-litre-2-1641793063.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/S16091/everherb-amla-giloy-juice-powerfull-immunity-booster-rich-in-vitamin-c-1-litre-2-1641792598.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/S16091/everherb-amla-giloy-juice-powerfull-immunity-booster-rich-in-vitamin-c-1-litre-7-1641792595.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "cost": 750,
+          "off": "7% off"
+        },
+        {
+          "id": "a3316",
+          "name": "Depura, 60000 Iu Vitamin D3 Oral Solution,Helps Bones Healthy, Aids In Boosting Immunity, Sugarfree",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-2-1654077895.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-6.2-1653910375.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-6.4-1653910373.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-6.5-1653910404.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/266249/depura-60000-iu-vitamin-d3-oral-solution-helps-bones-healthy-aids-in-boosting-immunity-sugarfree-6.6-1653910409.jpg"
+        ],
+          "price": 75.99,
+          "cost": 94.99,
+          "off": "20% off"
+        },
+        {
+          "id": "a3416",
+          "name": "Revital H Men Multivitamin With Calcium, Zinc & Ginseng For Immunity, Strong Bones & Energy",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-2-1654077741.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-men-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-capsules-3-1654078581.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.1-1641398821.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.2-1641398805.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/270552/revital-h-health-supplement-capsules-bottle-of-30-6.6-1641398808.jpg"
+        ],
+          "price":263.5,
+          "cost":310,
+          "pack":[30,60],
+          "off": "15% off"
+          
+        },
+        {
+          "id": "a3516",
+          "name": "Revital H Women Multivitamin With Calcium, Zinc, Ginseng For Immunity, Strong Bones & Energy 10 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-10-tablets-2-1654077742.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-10-tablets-3-1654077635.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-6.1-1641398698.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-6.2-1641398694.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/311270/revital-h-woman-health-supplement-tablets-strip-of-10-6.3-1641398691.jpg"
+        ],
+          "price":106.25,
+          "cost": 125,
+          "off": "7% off"
+        },
+        {
+          "id": "a3616",
+          "name": "Revital H Energy Nxt Yoghurt Berry Bar",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-1-1641794143.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-2-1641794153.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-4-1641794138.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-6.1-1641794132.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/P42782/revital-h-energy-nxt-yoghurt-berry-bar-35g-6.3-1641794135.jpg"
+        ],
+          "price": 45,
+          "cost": 50,
+          "off": "10% off"
+        },
+        
+        {
+          "id": "a4216",
+          "name": "Dettol Liquid Disinfectant For Floor Cleaner, Surface Disinfection Personal Hygiene Lime Fresh",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-2-1654166123.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-3-1654166132.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.2-1641788106.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.3-1641788114.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40097/dettol-liquid-disinfectant-for-floor-cleaner-surface-disinfection-personal-hygiene-lime-fresh-500ml-6.4-1641788110.jpg"
+        ],
+          "price":165,
+          "cost": 193,
+          "pack":[200,500],
+          "off": "18% off"
+        },
+        {
+          "id": "a4316",
+          "name": "Amrutanjan Relief Nasal Inhaler - 0.75g",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-2-1662715214.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-3-1662715212.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-6.1-1662715206.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-6.2-1662715208.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41299/amrutanjan-relief-nasal-inhaler-075g-6.3-1662715216.jpg"
+        ],
+          "price": 37,
+          "cost": 45,
+          "off": "16% off"
+        },
+        {
+          "id": "a4416",
+          "name": "Vicks Inhaler Keychain Pack Of",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-2-1654166287.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-3-1654166287.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-6.1-1641788240.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-6.3-1641788234.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I40046/vicks-inhaler-keychain-pack-of-1-6.4-1641788239.jpg"
+        ],
+          "price":61.38,
+          "cost": 62,
+          "pack":[10,20],
+          "off": "1% off"
+        },
+        {
+          "id": "a4516",
+          "name": "Baidyanath Chyawanprash Special - Immunity & Omniprotection | 52 Ayurvedic Ingredients",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I41646/baidyanath-chyawanprash-special-immunity-omniprotection-52-ayurvedic-ingredients-500g-2-1654166032.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I41646/baidyanath-chyawanprash-special-immunity-omniprotection-52-ayurvedic-ingredients-500g-6.1-1641788147.jpg"
+          
+        ],
+          "price": 88,
+          "cost": 110,
+          "pack":[250,500,950],
+          "off": "20% off"
+        },
+        {
+          "id": "a4616",
+          "name": "Everherb (By Pharmeasy) Ashwagandha - Immunity Booster Capsules - Anxiety & Stress Relief - Bottle Of Faces Canada Ultime Pro Matte Play Eyeliner",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-2-1661760071.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.1-1661760093.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O31911/everherb-by-pharmeasy-ashwagandha-immunity-booster-capsules-anxiety-stress-relief-bottle-of-60-6.2-1661760144.jpg"
+        ],
+          "price":539,
+          "cost":599,
+          "pack":[100,200],
+          "off": "10% off"
+        },
+        {
+          "id": "a4716",
+          "name": "Dettol Disinfectant Sanitizer Spray Bottle -Spring Blossom,",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-2-1654234201.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-3-1654234069.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-6.1-1641793422.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-6.3-1641793416.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/O35200/dettol-disinfectant-sanitizer-spray-bottle-spring-blossom-225ml-6.4-1641793424.jpg"
+        ],
+          "price":136.74,
+          "cost": 159,
+          "off": "14% off"
+        },
+        {
+          "id": "a4816",
+          "name": "Savlon Antiseptic Disinfectant Liquid",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-2-1641398675.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.1-1641398678.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.2-1641398676.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.3-1641398679.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-7-1641398673.jpg"
+        ],
+          "price":20.75,
+          "cost": 25,
+          "pack":[50,100,1000],
+          "off": "5% off"
+        },
+        {
+          "id": "a4916",
+          "name": "Liveasy Essentials Instant Hand Sanitizer-Kills 99.9% Germs - Gel Based - 200ml",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/G99739/liveasy-essentials-instant-hand-sanitizer-kills-999-germs-gel-based-200ml-2-1661760163.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/G99739/liveasy-essentials-instant-hand-sanitizer-kills-999-germs-gel-based-200ml-2-1661760163.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/G99739/liveasy-essentials-instant-hand-sanitizer-kills-999-germs-gel-based-200ml-7-1661760147.jpg?dim=100x0&dpr=1&q=100"
+         
+        ],
+          "price":80,
+          "cost":100,
+          "off": "20% off"
+        },
+        {
+          "id": "a5016",
+          "name": "Garlic Pearls Healthy Heart & Digestion Capsules Bottle Of 100",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-1-1654078628.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-2-1654078335.jpghttps://cdn01.pharmeasy.in/dam/products_otc/156775/savlon-antiseptic-disinfectant-liquid-50-ml-6.1-1641398678.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-3-1654078275.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-6.1-1641398915.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/081970/garlic-pearls-healthy-heart-digestion-capsules-bottle-of-100-6.2-1641398925.jpg"
+        ],
+          "price":120,
+          "cost": 150,
+          "off": "20% off"
+        },
+        {
+          "id": "a5116",
+          "name": "Otrivin Paediatric 0.05 % Nasal Drops 10 Ml",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-1-1641788150.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-2-1641788149.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-3-1641788151.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-7-1641788149.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/I28135/otrivin-paediatric-005-nasal-drops-10-ml-5.2-1641788150.jpg"
+        ],
+          "price": 46.88,
+          "cost": 48.88,
+          "off": "4% off"
+        },
+        {
+          "id": "a5216",
+          "name": "Ourdaily Vitamin C ( 500mg ) & Zinc Chewable Tablets-Builds Immunity - Lemony Orange- 15 Tablets",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-1-1654169463.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-2-1654169622.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-3-1654169441.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-6.1-1641789369.jpg",
+          "https://cdn01.pharmeasy.in/dam/products_otc/F22184/ourdaily-vitamin-c-500mg-zinc-chewable-tablets-builds-immunity-lemony-orange-15-tablets-6.2-1641789372.jpg"
+        ],
+          "price":48.3,
+          "cost": 69,
+          "off": "30% off"
+        },
+        {
+          "id": "a5316",
+          "name": "Dabur Chyawanprash - 2 X Immunity - 500 Gm With 50 Gm Free",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-2-1654233771.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-3-1654233744.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-6.1-1641790235.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-6.2-1641790223.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/T14846/dabur-chyawanprash-2-x-immunity-500-gm-with-50-gm-free-6.3-1641790231.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price": 204,
+          "cost":230,
+          "pack":[500,1000,2000],
+          "off": "5% off"
+        },
+        {
+          "id": "a5416",
+          "name": "Accusure Digital Thermometers Mt 1027 Hard Tip (White)",
+          "img": ["https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-1-1641789880.jpg?dim=700x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-2-1641789875.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-6.1-1641789882.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-6.2-1641789877.jpg?dim=100x0&dpr=1&q=100",
+          "https://cdn01.pharmeasy.in/dam/products_otc/U26627/accusure-digital-thermometers-mt-1027-hard-tip-white-6.3-1641789885.jpg?dim=100x0&dpr=1&q=100"
+        ],
+          "price":161.5,
+          "cost": 170,
+          "off": "5% off"
+        } 
+      ]
+}
