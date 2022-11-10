@@ -1,71 +1,64 @@
-import React, { useEffect, useState } from 'react'
-import { Box, Flex, Heading, Image } from '@chakra-ui/react';
+import React from 'react'
+import { Box, Flex, Heading } from '@chakra-ui/react';
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
 import "../HomePage/style.css";
 import "swiper/css/bundle"
-import { Autoplay, Pagination, Navigation } from "swiper";
-//import { Link } from 'react-router-dom';
-import {dbdata} from "../../db"
+import { Navigation } from "swiper";
+
+import { dbdata } from "../../db"
 import styles from "./ShopByCategory.module.css"
 
-console.log("dbdata", dbdata)
- 
+
+
 const ShopByCategory = () => {
 
 
-   
-
-  return (
-    <Box p={5} >
-        <Heading p={5} textAlign={"start"} size='md' color={"gray.700"}>Shop by Categories</Heading>
-    <Flex justifyContent={"space-between"} p={5}>
-
-        <Swiper
-
-            centeredSlides={true}
-            autoplay={{
-                // delay: 2500,
-                disableOnInteraction: false,
-            }}
-            // pagination={{
-            //     clickable: true,
-            // }}
-            navigation={false}
-            modules={[Autoplay, Pagination, Navigation]}
-            className="mySwiper"
-
-            slidesPerView={1}
-
-            loop={true}
-            loopFillGroupWithBlank={true}
 
 
-           >
+    return (
+        <Box p={5} >
+            <Heading p={5} textAlign={"start"} size='md' color={"gray.700"}>Shop by Categories</Heading>
+            <Flex justifyContent={"space-between"} p={5}>
+
+                <Swiper
+
+                    slidesPerView={6}
+                    spaceBetween={10}
+
+                    loop={true}
+                    loopFillGroupWithBlank={true}
+
+                    navigation={true}
+                    modules={[Navigation]}
+                    className="mySwiper"
 
 
-            <SwiperSlide style={{gap:"1rem"}}>
-                {dbdata?.shop_by_categories.map((item)=>(
-                    <div key={item.id} className={styles.card} >
-                    <div className={styles.imgdiv}>
-                    <img  src={item?.img} alt={item.id} />
-                    </div>
-                    
-                
-                <h5 className={styles.cardtitle}>
-                    {item.title}
-                </h5>
-                
-            </div>
+                >
 
-                
-                ))}
-                
-                
-            </SwiperSlide>
-            {/* <SwiperSlide>
+                    {dbdata?.shop_by_categories.map((item) => (
+                        <SwiperSlide style={{ gap: "1rem" }}>
+
+                            <div key={item.id} className={styles.card} >
+                                <div className={styles.imgdiv}>
+                                    <img src={item?.img} alt={item.id} />
+                                </div>
+
+
+                                <h5 className={styles.cardtitle}>
+                                    {item.title}
+                                </h5>
+
+                            </div>
+
+                        </SwiperSlide>
+                    ))}
+
+
+
+                    {/* <SwiperSlide>
                 <Box  >
                     <Link to="/">
                         <Image  src="https://cdn01.pharmeasy.in/dam/discovery/categoryImages/1e622b0308ec3ab48887512eaa3488a5.png?f=png?dim=256x0" />
@@ -131,15 +124,15 @@ const ShopByCategory = () => {
                     
                 </Box>
             </SwiperSlide> */}
-            
 
 
 
-        </Swiper>
-    </Flex>
-    
-    </Box>
-  )
+
+                </Swiper>
+            </Flex>
+
+        </Box>
+    )
 }
 
 export default ShopByCategory
