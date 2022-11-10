@@ -1,15 +1,26 @@
 import { Box, Button, Flex, Image, Input, SimpleGrid, Stack } from '@chakra-ui/react'
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link, Navigate } from 'react-router-dom'
 import { FaGreaterThan, FaMapMarkerAlt, FaMobileAlt, FaShoppingCart, FaUserAlt } from 'react-icons/fa'
 import { CiPercent } from 'react-icons/ci'
 import { TbNotes } from 'react-icons/tb'
 import { useState } from 'react'
+import {
+    Drawer,
+    DrawerBody,
+    DrawerFooter,
+    DrawerHeader,
+    DrawerOverlay,
+    DrawerContent,
+    useDisclosure,
+    DrawerCloseButton,
+  } from '@chakra-ui/react'
+import DrawerExample from '../../Aadicomp/Login/Login'
 
-const Navbar = () => {
+
+const Navbar=() => {
     const [count] = useState(0)
-
-
+    const { isOpen, onOpen, onClose } = useDisclosure()
 
     return (
         <div position={"fixed"} zIndex="1">
@@ -29,9 +40,9 @@ const Navbar = () => {
                                     <Box fontSize={"sm"}><FaMobileAlt /></Box>
                                     <Box fontSize={"sm"}>Download</Box>
                                 </Button></a>
-                                <Button variant="link" colorScheme='white' gap={"2"}>
+                                <Button variant="link" colorScheme='white' >
                                     <Box fontSize={"sm"}><FaUserAlt /></Box>
-                                    <Box fontSize={"sm"}>Hello, Login</Box>
+                                   <Box fontSize={"sm"} ><DrawerExample/></Box>
                                 </Button>
                                 <Button variant="ghost" colorScheme='white' gap={"2"}>
                                     <Box fontSize={"sm"}><CiPercent /></Box>
