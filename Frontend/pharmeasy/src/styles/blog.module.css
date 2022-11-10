@@ -1,0 +1,25 @@
+
+.leftcontainer{
+ width: 60%;
+ min-width: 25rem;
+ display: flex;
+ gap: 2rem 0;
+ flex-direction: column;
+}
+/* .rightcontainer{
+ 
+} */
+
+.nav{
+    display: flex;
+    gap: 2rem;
+    font-size: large;
+    font-weight: 500;
+}
+
+.nav_tab{
+    display: flex;
+    align-items: flex-end;
+    color: white;
+}
+
