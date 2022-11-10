@@ -1,0 +1,24 @@
+.aadiloginheader{
+    background-color: #10847E;
+    display:flex;
+    align-items: center;
+    gap:4rem;
+
+}
+.loginnamelogo{
+    margin-left: 1rem;
+    height: 55px;
+    width: 180px;
+}
+.logincup img{
+   padding-top: 1rem;
+    height: 80px;
+    width: 140px;
+}
+
+.aadiloginheading{
+    display: inline-flex;
+    gap:1rem;
+    color: white;
+    align-items: center;
+}
