@@ -4,14 +4,24 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
-import { ChakraProvider } from '@chakra-ui/react';
+import { ChakraProvider, extendTheme } from '@chakra-ui/react';
 import { Provider } from 'react-redux';
 import { store } from './Redux/store';
 
+
+const theme = extendTheme({
+  colors: {
+    gray: {
+      100: '#fafafa',
+      200: '#f7f7f7',
+    },
+    pharma: '#12926F'
+  },
+})
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <BrowserRouter>
-    <ChakraProvider>
+    <ChakraProvider theme={theme}>
       <Provider store={store}>
         <App />
       </Provider>
