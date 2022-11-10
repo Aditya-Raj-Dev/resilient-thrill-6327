@@ -1,6 +1,8 @@
 .card{
     display: flex;
     flex-direction: column;
+    height: 300px;
+    width: 300px;
 
 }
 .imgdiv{
@@ -17,13 +19,24 @@
     margin: auto;
     
 }
+.title{
+    width: 120px;
+    height: 120px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: var(--chakra-line-clamp);
+    --chakra-line-clamp: 10;
+    margin-top: 0.7rem;
+    font-weight: 300;
+
+}
 .cardtitle{
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: var(--chakra-line-clamp);
-    --chakra-line-clamp: 1;
+    --chakra-line-clamp: 10;
     margin-top: 0.7rem;
-    font-weight: 500;
+    font-weight: lighter;
 
 
 }
