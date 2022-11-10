@@ -1,0 +1,29 @@
+
+.border1 {
+    width: 50%;
+    border: 1px solid gray;
+    height: 400px;
+}
+.bordercolor{
+ 
+    width: 40%;
+    height: 270px;
+    border: 1px solid gray;
+
+}
+
+.smallbox{
+     width: 55px;
+     height: 55px;
+     border: 1px solid gray;
+     border-radius: 10px;
+}
+
+.smallboxflex {
+    gap: 10px;
+    margin-left: 30px;
+    margin-top: 8px;
+}
+.fourbox{
+   width: 50px;
+}
