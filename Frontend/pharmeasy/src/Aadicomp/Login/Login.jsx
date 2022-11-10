@@ -23,33 +23,38 @@ import {
 
   function DrawerExample() {
     const toast = useToast()
-    const [pin,setPin]=useState("")
-    const [showinput,setShowinput]=useState(false)
-    const [number,setNumber]=useState(0)
-    const [size, setSize] = React.useState('')
     const { isOpen, onOpen, onClose } = useDisclosure()
     const btnRef = React.useRef()
-    
+   // *****FOR NUMBER ******
+    const [number,setNumber]=useState("")
 
+  // *****FOR OTP ******
+    const [pin,setPin]=useState([])
+
+    const [showinput,setShowinput]=useState(false)
+    
+    const [size, setSize] = React.useState('')
+    
+// *****  FOR OPENING THE SIDEBAR ******
    function handleClick(newSize){
     setSize(newSize)
     onOpen()
     }
- console.log(showinput)
-  const pinarray=[]
- function handlepininput(e){
-  pinarray.push(e.target.value)
-  // document.addEventListener("keydown", function(event) {
-  // if(event.code==="Backspace"){
-  //   pin.pop()
-  // }
-  // })
-   setPin(pinarray)
-   
- }
-console.log(pin.toString("").split(",").join(""))
+ 
 
-   var OTP
+//  *******   FOR ENTERING THE OTP  ******
+   let pinarray=[]
+   let num
+ function handlepininput(e){
+  num=e.target.value
+  pinarray.push(num)
+ }
+console.log(pinarray)
+ var OTP
+// console.log(pinarray.toString("").split(",").join(""))
+
+
+   
     function handleotpbutton(){
       if(number.length >10 || number.length<10 || number===0){
            toast({
@@ -78,8 +83,10 @@ console.log(pin.toString("").split(",").join(""))
             setShowinput(true)
           })
     }
+
+
     useEffect(()=>{
-       if(pin.toString("").split(",").join("")==OTP){
+       if(pin==OTP){
         toast({
           title: `Login Success`,
           status: "success",
@@ -129,13 +136,17 @@ console.log(pin.toString("").split(",").join(""))
                 <PinInputField onChange={handlepininput}/>
               </PinInput>
            </HStack>: 
-           <Input onChange={(e)=>setNumber(e.target.value)} type="number"  placeholder='Enter Your Mobile Number' size='lg' />}
+           <Input onChange={(e)=>setNumber(e.target.value)}  maxlength={10} placeholder='Enter Your Mobile Number' size='lg' />}
                 <br />
                  <br/>
+              {showinput?<Button colorScheme='teal' size='lg' width="400px"
+              onClick={onClose}>
+                LOGIN
+              </Button>:
               <Button colorScheme='teal' size='lg' width="400px"
               onClick={handleotpbutton}>
                 Send OTP
-              </Button>
+              </Button>}
               <br />
               <br />
               <p>By clicking continue, you agree with our Privacy Policy</p>
