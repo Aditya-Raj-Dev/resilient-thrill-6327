@@ -8,6 +8,7 @@ import {
   Image,
   Text,
   ListItem,
+  Flex,
   UnorderedList,
   Divider,
   Stack,
@@ -15,19 +16,23 @@ import {
 } from "@chakra-ui/react";
 import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
 import styles from "./SingleProductPage.module.css";
+import { useParams ,useNavigate} from "react-router-dom";
 
 
-import { useNavigate } from "react-router-dom";
 import SingleProductPageSlider from "../Components/SingleProduct/SingleProductPageSlider";
 
 const SingleProductPage = () => {
+  const navigate = useNavigate();
  
-  
+  const handleViewCart = () => {
+    navigate("/");
+  };
 
   return (
     <>
-       <SingleProductPageSlider />
-      <Box className={styles.main_div4}>
+    <Flex>
+    <SingleProductPageSlider />
+    <Box className={styles.main_div4}>
               <p style={{ fontWeight: "bold" }}>Items in Cart</p>
 
               <Stack
@@ -38,7 +43,7 @@ const SingleProductPage = () => {
                 marginBottom="4rem"
               >
                 <Button
-                //   onClick={handleViewCart}
+                  onClick={handleViewCart}
                   colorScheme="teal"
                   size="lg"
                   width="20rem"
@@ -76,6 +81,9 @@ const SingleProductPage = () => {
                 </div>
               </div>
             </Box>
+    </Flex>
+      
+    
         <Divider />
       <Box w={"60%"} m="auto" mb={"2rem"} >
         <Grid templateColumns="repeat(3, 1fr)" gap={6}>
