@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
 
 const CatSlider = () => {
     return (
-        <Box >
+        <Box p={5}>
         <Flex justifyContent={"space-between"} p={5}>
 
             <Swiper
@@ -34,8 +34,7 @@ const CatSlider = () => {
                 loopFillGroupWithBlank={true}
 
 
-                onSlideChange={() => console.log('slide change')}
-                onSwiper={(swiper) => console.log(swiper)}>
+               >
 
 
                 <SwiperSlide>
@@ -132,6 +131,7 @@ const CatSlider = () => {
 
             </Swiper>
         </Flex>
+
         </Box>
 
     )

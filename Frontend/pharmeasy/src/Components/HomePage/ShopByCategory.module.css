@@ -1,0 +1,29 @@
+.card{
+    display: flex;
+    flex-direction: column;
+
+}
+.imgdiv{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 130px;
+    width: 130px;
+    border-radius: 0.5rem;
+    
+}
+.imgdiv>img{
+    object-fit: contain;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    
+}
+.cardtitle{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: var(--chakra-line-clamp);
+    --chakra-line-clamp: 1;
+    margin-top: 0.7rem;
+    font-weight: 500;
+
+
+}

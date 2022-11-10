@@ -12,7 +12,7 @@ const Footer = () => {
 
   return (
     <div className='foot'>
-        <div style={{display:"flex"}}>
+        <div style={{display:"flex", justifyContent:"space-around" }}>
             <div>
                 <Text fontSize="xl" fontWeight="bold" textAlign="left">Company</Text>
                 {company.map((item)=>
