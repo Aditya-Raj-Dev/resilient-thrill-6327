@@ -1,0 +1,21 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    height: 260px;
+    width: 260px;
+
+}
+.imgdiv{
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    height: 260px;
+    width: 260px;
+    border-radius: 0.5rem;
+    
+}
+.imgdiv>img{
+    object-fit: contain;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    
+}

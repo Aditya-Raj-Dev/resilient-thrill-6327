@@ -45,25 +45,45 @@ app.post("/signup", async (req, res) => {
 
 // ***** LOGIN ROUTE***** //
 
+// app.post("/login", async (req, res) => {
+//   const { email, password } = req.body;
+//   const user = await UserModel.findOne({ email });
+//   if (!user) {
+//     res.send({ "msg": "Please Login first" });
+//   } else {
+//     const hashed_password = user.password;
+//     const user_id = user._id;
+//     bcrypt.compare(password, hashed_password, function (err, result) {
+//       if (err) {
+//         res.send({ "msg": "Please Login Again" });
+//       }
+//       if (result) {
+//         var token = jwt.sign({ user_id }, process.env.SECRET_KEY);
+//         res.send({ "msg": "Login SucessFull", "token": token });
+//       } else {
+//         res.send({ "msg": "wrong Credential" });
+//       }
+//     });
+//   }
+// });
+
+
+// **** LOGIN BY NUMBER ****** 
+
 app.post("/login", async (req, res) => {
-  const { email, password } = req.body;
-  const user = await UserModel.findOne({ email });
+  const { number } = req.body;
+  console.log(number)
+  const user = await UserModel.findOne({ number });
   if (!user) {
-    res.send({ "msg": "Please Login first" });
+      const new_user = UserModel({
+        number,
+      });
+      await new_user.save();
+      const otp = Math.floor(1000 + Math.random() * 9000);
+      res.send({ "msg": "Signup Sucessfull" ,"otp":otp,"user":new_user});
   } else {
-    const hashed_password = user.password;
-    const user_id = user._id;
-    bcrypt.compare(password, hashed_password, function (err, result) {
-      if (err) {
-        res.send({ "msg": "Please Login Again" });
-      }
-      if (result) {
-        var token = jwt.sign({ user_id }, process.env.SECRET_KEY);
-        res.send({ "msg": "Login SucessFull", "token": token });
-      } else {
-        res.send({ "msg": "wrong Credential" });
-      }
-    });
+    const otp = Math.floor(1000 + Math.random() * 9000);
+    res.send({ "msg": "Signup Sucessfull" ,"otp":otp,"user":user});
   }
 });
 
