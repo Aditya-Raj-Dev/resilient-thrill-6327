@@ -1,15 +1,29 @@
 
-.border1 {
-    width: 50%;
-    border: 1px solid gray;
-    height: 400px;
+
+
+.bigbox12 {
+    margin-left: 90px;
+    width: 100%;
+    height: 1000px;
+    overflow: scroll;
+    scroll-behavior: smooth;
+
 }
+.bigbox12::-webkit-scrollbar{
+   background-color: white;
+}
+.border1 {
+    width: 300px;
+    height: 500px;
+    padding: 10px;
+} 
 .bordercolor{
  
-    width: 40%;
+    width: 100%;
     height: 270px;
     border: 1px solid gray;
 
+    
 }
 
 .smallbox{
@@ -17,6 +31,7 @@
      height: 55px;
      border: 1px solid gray;
      border-radius: 10px;
+     margin-left: 10px;
 }
 
 .smallboxflex {
@@ -25,5 +40,101 @@
     margin-top: 8px;
 }
 .fourbox{
-   width: 50px;
+   width: 170px;
+   height: 170px;
+}
+
+.lineborder {
+
+    height: 190px;
+    border: 1px solid gray;
+    padding-top: 60px;
+    padding-left: 10px;
+    border-radius: 10px;
+    
+}
+.imgsmall{
+    width: 140px;
+}
+
+.mrpdark{
+    font-weight: bold;
+    text-align: start;
+}
+.lightbold{
+    font-weight: 400;
+    text-align: start;
+}
+
+.textpara{
+    text-align: start;
+
+}
+.gapinbox{
+    gap:20px;
+    margin-left: 10px;
+}
+.gapinbox1{
+    gap:20px;
+    margin-left: 10px;
+    margin-top: 70px;
+}
+.linehr{
+    margin-top: 200px;
+}
+.imgsmallbox{
+    height: 100px;
+    margin-left: 40px;
+
+}
+
+.imgsmallboxsmall{
+    height: 100px;
+    margin-left: 60px;
+}
+
+.addbutton{
+    width: 80px;
+    height: 35px;
+    border-radius: 5px;
+    color: teal;
+    font-weight: bold;
+    border:  1px solid teal;
+}
+
+.slideheading{
+    text-align: start;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.similarp{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-weight: bold;
+    text-align: start;
+}
+.starbig{
+    width: 30px;
+    height: 40px;
+    color: gold;
+}
+.upsidehea{
+    margin-top: 7px;
+}
+.addtocart{
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: #169f98;
+    border-radius: 10px;
+}
+.sideinfo{
+    margin-left: 50px;
+}
+.sideinfo h2{
+    text-align: start;
+    font-weight: bold;
+}
+.sideinfo h6{
+    text-align: start;
 }

@@ -5,9 +5,9 @@ const { GetCart, Postcart, Deletecart } = require("../Controller/cart.controller
 const CartRouter=Router()
 
 
-CartRouter.get("/",authentication, GetCart)
-CartRouter.post("/",authentication, Postcart)
-CartRouter.delete("/:_id",authentication,Deletecart)
+CartRouter.get("/", GetCart)
+CartRouter.post("/", Postcart)
+CartRouter.delete("/:_id",Deletecart)
 
 
 

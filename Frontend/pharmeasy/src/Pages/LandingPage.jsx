@@ -18,13 +18,14 @@ import BookLabTest from '../Components/HomePage/BookLabTest'
 const LandingPage = () => {
   return (
     <div>
-        <Navbar />
+        {/* <Navbar /> */}
 
-        {/* <HealthBlog/> */}
+        <HealthBlog/>
 
-        <CatSlider />
+        {/* <CatSlider />
         <OfferSlider />
         <ShopByCategory />
+
         <NewLaunches />
         <Trending />
         <LabTest />
@@ -32,6 +33,7 @@ const LandingPage = () => {
         <BookLabTest/>
         <FeaturedBrand />
         <Footer />
+
       
 
 

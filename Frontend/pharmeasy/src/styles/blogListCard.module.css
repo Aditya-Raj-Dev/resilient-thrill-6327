@@ -1,0 +1,28 @@
+.blogList_card{
+    display: flex;
+    gap:1rem 0.2rem ;
+    align-items: center;
+    border: 1px solid transparent;
+    padding: 0 1rem;
+    /* border-radius: 0.5rem; */
+}
+
+.blogList_card_imgWrapper{
+    width: 20rem;
+}
+
+.blogList_card_imgWrapper>img{
+    object-fit: contain;
+}
+
+.blogList_card_titleWrapper>p{
+    text-align: left;
+    font-size: large;
+    font-weight: lighter;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    -line-clamp: 1;
+}
