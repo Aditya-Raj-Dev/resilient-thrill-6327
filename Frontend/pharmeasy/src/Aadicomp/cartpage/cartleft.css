@@ -1,0 +1,94 @@
+.address{
+    background-color: #f4f7fb;
+    padding:14px;
+    display: flex;
+    gap:1rem;
+    width:325px;
+}
+.aadicart{
+    width:80%;
+    margin: auto;
+    display:flex;
+    gap:4rem;
+}
+.delivery{
+    font-weight: bold;
+    color: #8897a2;
+}
+.deliveryadd{
+    color:#4f585e;
+    font-family: sans-serif;
+    font-size: small;
+}
+.addchange{
+    color: #10847e;
+    font-weight: bold;
+    margin-left: 80px;
+    font-size: 12px;
+    font-family: sans-serif;
+    margin-top: 5px;
+}
+
+.coupon{
+    margin-top: 40px;
+    border:2px solid #10847e;
+    border-radius: 5px;
+    padding: 0px 5px 0px 15px;
+     width: 325px;
+     height: 45px;
+     padding-top: 7px;
+     display:inline-flex;
+     margin-bottom: 20px;
+}
+.coupon img{
+    margin-top: 5px;
+    margin-right: 10px;
+    height: 18px;
+
+}
+.applycoupon{
+    color: #10847e;
+    font-size: 16px;
+    font-weight: bold;
+}
+.freedelivery{
+    border:1px dotted #10847e;
+    background-color: #f2fff8;
+    height:42px;
+    width:325;
+    display: inline-flex;
+    margin-top: 14px;
+    padding: 0px 17px 0px 17px;
+    border-radius: 5px;
+    margin-bottom: 2.5rem;
+}
+
+.freedelivery img{
+    margin-top: 10px;
+    margin-right: 20px;
+    height: 20px;
+
+}
+.freedelivery h1{
+    margin-top: 8px;
+    color: #3bb896;
+    font-size: 14px;
+    font-weight: 500;
+}
+.ordersummary h1{
+     font-weight: bold;
+     font-size: 18px;
+     font-family:sans-serif;
+     color:#4f585e;
+     text-align: left;
+     margin-bottom: 1rem;
+}
+.ordersummary h4{
+font-weight: bold;
+}
+
+.totalsummary div{
+    display:flex;
+    justify-content: space-between;
+    color: #4f585e;
+}

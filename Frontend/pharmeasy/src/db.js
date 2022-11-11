@@ -81,7 +81,7 @@ export const dbdata = {
         },
         {
             "id":"nl2",
-            "title":"Pharmeasy Digital Thermometer Flexi Tip",
+            "title":"Digital Thermometer Flexi Tip",
             "img":[
                 {
                     "img":"https://cdn01.pharmeasy.in/dam/products_otc/O77647/pharmeasy-digital-thermometer-flexi-tip-2-1663592915.jpg"
@@ -101,7 +101,7 @@ export const dbdata = {
         },
         {
             "id":"nl3",
-            "title":"Supradyn Immuno+, Multivitamin, Natural Immunity Booster With Vit C, Vit D, Zinc, 30 Tablets",
+            "title":"Supradyn Immuno+, 30 Tablets",
             "img":[
                 {
                     "img":"https://cdn01.pharmeasy.in/dam/products_otc/Z07796/supradyn-immuno-multivitamin-natural-immunity-booster-with-vit-c-vit-d-zinc-30-tablets-2-1665045164.jpg"
@@ -118,7 +118,7 @@ export const dbdata = {
         },
         {
             "id":"nl4",
-            "title":"Dettol Neem Bathing Soap Bar With Pure Neem Oil, 75g (Buy 3 Get 1 Free), Combo Offer On Bath Soap",
+            "title":"Dettol Neem Bathing Soap ",
             "img":[
                 {
                     "img":"https://cdn01.pharmeasy.in/dam/products_otc/K49952/dettol-neem-bathing-soap-bar-with-pure-neem-oil-75g-buy-3-get-1-free-combo-offer-on-bath-soap-2-1664184591.jpg"

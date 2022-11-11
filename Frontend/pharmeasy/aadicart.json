@@ -1,0 +1,58 @@
+{
+  "cart": [
+    {
+      "id": "c116",
+      "name": "Dettol Antiseptic Liquid Bottle Of",
+      "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-2-1656923531.jpg",
+              "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.1-1656923485.jpg",
+              "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.2-1656923443.jpg",
+              "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.3-1656923449.jpg",
+              "https://cdn01.pharmeasy.in/dam/products_otc/I40695/dettol-antiseptic-liquid-bottle-of-550-ml-6.9-1656923456.jpg"
+            ],
+      "price":29.94,
+      "cost": 33.27,
+      "pack":[60,125,250,550,100],
+      "off": "8% off",
+      "category":"covid"
+    },
+    {
+      "id": "c216",
+      "name": "Pharmeasy All-In -One Vaporizer",
+      "img": ["https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-1-1654233812.jpg",
+              "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-2-1654233960.jpg",
+              "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-3-1654233960.jpg",
+              "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-6.1-1654233944.jpg",
+              "https://cdn01.pharmeasy.in/dam/products_otc/Q83701/pharmeasy-all-in-one-vaporizer-1-1654233812.jpg"
+            ],
+      "price": 269.55,
+      "cost": 549,
+      "off": "55% off"
+    },
+    {
+      "id": "c316",
+      "name": "Becozym C Forte ( Vitamin B Complex + Biotin + Vitamin C )- Strip Of 15 Tablets",
+      "img": ["https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-1-1654077406.jpg?dim=700x0&dpr=1&q=100",
+      "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2-1654077421.jpg?dim=100x0&dpr=1&q=100",
+      "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-2.1-1641398864.jpg?dim=100x0&dpr=1&q=100",
+      "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.1-1641398853.jpg?dim=100x0&dpr=1&q=100",
+      "https://cdn01.pharmeasy.in/dam/products_otc/022290/becozym-c-forte-vitamin-b-complex-biotin-vitamin-c-strip-of-15-tablets-6.3-1641398850.jpg?dim=100x0&dpr=1&q=100"
+    ],
+      "price": 25.21,
+      "cost": 27.4,
+      "off": "8% off"
+    },
+    {
+      "id": "c416",
+      "name": "Revital H Women Multivitamin With Calcium, Zinc, Ginseng For Immunity, Strong Bones & Energy 30 Tablets",
+      "img": ["https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-1-1654168794.jpg?dim=700x0&dpr=1&q=100",
+      "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-2-1654168765.jpg",
+      "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-women-multivitamin-with-calcium-zinc-ginseng-for-immunity-strong-bones-energy-30-tablets-3-1654168762.jpg",
+      "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.2-1641398764.jpg",
+      "https://cdn01.pharmeasy.in/dam/products_otc/I00596/revital-h-woman-health-supplement-tablets-bottle-of-30-6.3-1641398752.jpg"
+    ],
+      "price": 306,
+      "cost": 360,
+      "off": "7% off"
+    }
+  ]
+}
