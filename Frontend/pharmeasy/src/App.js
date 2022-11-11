@@ -8,7 +8,7 @@ import Footer from './Components/Footer/Footer';
 function App() {
   return (
     <div className="App">
-     {/* <AllRoutes /> */}
+     <AllRoutes />
      <Cart/>
     </div>
   );

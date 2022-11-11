@@ -31,8 +31,9 @@
 
 .main_div4{
     width: 24%;
-    margin-left: 75%;
+    margin-left: 2%;
     margin-bottom: 2rem;
+    margin-right: 90px;
  }
 .desc_img_div2 {
     margin-top: 3rem;
@@ -154,4 +155,8 @@ h1,p,h4{
 .slider_1{
     width: 140vh;
     margin-left: 2rem;
+}
+.deliverys{
+    font-size: smaller;
+    text-align: start;
 }
