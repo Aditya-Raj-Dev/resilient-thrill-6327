@@ -14,7 +14,7 @@ import styles from "./Concern.module.css"
 const Concern = () => {
   return (
     <Box p={5} >
-            <Heading p={5} textAlign={"start"} size='md' color={"gray.700"}>Shop by Concern</Heading>
+            <Heading pl={5} textAlign={"start"} size='md' color={"gray.700"}>Shop by Concern</Heading>
             <Text pl={5} textAlign={"start"} size='sm' color={"gray.700"}>Products are handpicked by experts</Text>
             <Flex justifyContent={"space-between"} p={5}>
 
@@ -30,10 +30,10 @@ const Concern = () => {
                     className="mySwiper">
 
                     {dbdata?.shop_by_concern.map((item) => (
-                        <SwiperSlide style={{ gap: "1rem" }}>
+                        <SwiperSlide style={{ gap: "0.2rem" }}>
                             <div key={item.id} className={styles.card} >
                                 <div className={styles.imgdiv}>
-                                    <img src={item?.img} alt={item.id} />
+                                    <img  src={item?.img} alt={item.id} />
                                 </div>
 
                                 <div className={styles.title}>

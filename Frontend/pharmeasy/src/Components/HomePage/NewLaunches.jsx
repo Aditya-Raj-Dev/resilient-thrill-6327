@@ -19,24 +19,6 @@ const NewLaunches = () => {
     <Flex justifyContent={"space-between"} p={5}>
 
         <Swiper
-
-            //centeredSlides={true}
-            // autoplay={{
-            //     // delay: 2500,
-            //     disableOnInteraction: true,
-            // }}
-            // pagination={{
-            //     clickable: true,
-            // }}
-            // navigation={false}
-            // modules={[Navigation]}
-            // className="mySwiper"
-
-            // slidesPerView={1}
-
-            // loop={true}
-            // loopFillGroupWithBlank={true}
-
             slidesPerView={6}
                 spaceBetween={10}
                 
@@ -45,13 +27,8 @@ const NewLaunches = () => {
                 
                 navigation={true}
                 modules={[Navigation]}
-                className="mySwiper"
+                className="mySwiper">
 
-
-           >
-
-
-            
                 {dbdata?.new_launches.map((item)=>(
                     <SwiperSlide style={{gap:"1rem"}}>
                     <div key={item.id} className={styles.card} >
@@ -63,9 +40,22 @@ const NewLaunches = () => {
                 <h6 className={styles.cardtitle}>
                     {item.title}
                 </h6>
-                <h6>
-                MRP ₹{item.mrp}
+               {
+                item.off ?  <h6 style={{color:"gray", fontWeight:"600"}}>
+                MRP  <span> <s>₹{item.mrp}</s> </span> 
+                </h6> :  <h6 style={{color:"gray", fontWeight:"600"}}>
+                MRP  ₹{item.mrp}
                 </h6>
+               }
+                {/* <h6>
+                MRP  ₹{item.mrp}
+                </h6> */}
+                { 
+                
+                    item.off ? <div style={{display:"flex", gap:"1rem", justifyContent:"center"}}><h6 style={{ fontWeight:"600"}}>₹{ Number(item.mrp) - (Number(item.mrp) * (item.off / 100))}</h6>
+                    <h6 style={{color:"tomato" , fontWeight:"600"}}>{item.off} % OFF</h6>
+                    </div> : <h6 style={{color:"white"}}> 10 </h6> 
+                }
                 </div>
                 
                 

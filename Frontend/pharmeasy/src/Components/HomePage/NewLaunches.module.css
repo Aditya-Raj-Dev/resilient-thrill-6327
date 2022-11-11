@@ -10,6 +10,7 @@
     height: 150px;
     width: 150px;
     border-radius: 0.5rem;
+    margin: auto;
     
 }
 .imgdiv>img{
@@ -17,26 +18,36 @@
     width: 120px;
     height: 120px;
     margin: auto;
+    padding-top: 1rem;
     
 }
 .title{
-    width: 120px;
+    /* width: 120px;
     height: 120px;
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: var(--chakra-line-clamp);
     --chakra-line-clamp: 10;
     margin-top: 0.7rem;
-    font-weight: 300;
+    font-weight: 300; */
+  
+
 
 }
 .cardtitle{
-    display: -webkit-box;
+    /* display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: var(--chakra-line-clamp);
     --chakra-line-clamp: 10;
     margin-top: 0.7rem;
-    font-weight: lighter;
+    font-weight: lighter; */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    -line-clamp: 1;
+    font-weight: bold;
 
 
 }

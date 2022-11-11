@@ -7,15 +7,15 @@ import "swiper/css/navigation";
 import "../HomePage/style.css";
 import "swiper/css/bundle"
 import { Navigation } from "swiper";
+import styles from "./ShopByCategory.module.css"
 
 import { dbdata } from "../../db"
-import styles from "./NewLaunches.module.css"
 
-const Trending = () => {
-    return (
-        <Box p={5} >
-            <Heading pl={5} textAlign={"start"} size='md' color={"gray.700"}>Trending Near You</Heading>
-            <Text pl={5} textAlign={"start"} size='sm' color={"gray.700"}>Popular in your city</Text>
+const FeaturedBrand = () => {
+  return (
+    <Box p={5} >
+            <Heading pl={5} textAlign={"start"} size='md' color={"gray.700"}>Featured Brands</Heading>
+            <Text pl={5} textAlign={"start"} size='sm' color={"gray.700"}>Pick from our favourite brands</Text>
             <Flex justifyContent={"space-between"} p={5}>
 
                 <Swiper
@@ -29,20 +29,18 @@ const Trending = () => {
                     modules={[Navigation]}
                     className="mySwiper">
 
-                    {dbdata?.trending_near_you.map((item) => (
-                        <SwiperSlide style={{ gap: "1rem" }}>
+                    {dbdata?.featured_brands.map((item) => (
+                        <SwiperSlide style={{ gap: "0.2rem" }}>
                             <div key={item.id} className={styles.card} >
                                 <div className={styles.imgdiv}>
-                                    <img src={item?.img[0].img} alt={item.id} />
+                                    <img src={item?.img} alt={item.id} />
                                 </div>
 
                                 <div className={styles.title}>
                                     <h6 className={styles.cardtitle}>
                                         {item.title}
                                     </h6>
-                                    <h6>
-                                        MRP ₹{item.mrp}
-                                    </h6>
+                                   
                                 </div>
                             </div>
 
@@ -52,7 +50,7 @@ const Trending = () => {
                 </Swiper>
             </Flex>
         </Box>
-    )
+  )
 }
 
-export default Trending
+export default FeaturedBrand

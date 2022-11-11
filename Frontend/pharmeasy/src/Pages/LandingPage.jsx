@@ -12,6 +12,8 @@ import ShopByCategory from '../Components/HomePage/ShopByCategory'
 import Trending from '../Components/HomePage/Trending'
 import LabTest from '../Components/HomePage/LabTest'
 import Concern from '../Components/HomePage/Concern'
+import FeaturedBrand from '../Components/HomePage/FeaturedBrand'
+import BookLabTest from '../Components/HomePage/BookLabTest'
 
 const LandingPage = () => {
   return (
@@ -27,6 +29,8 @@ const LandingPage = () => {
         <Trending />
         <LabTest />
         <Concern />
+        <BookLabTest/>
+        <FeaturedBrand />
         <Footer />
       
 
