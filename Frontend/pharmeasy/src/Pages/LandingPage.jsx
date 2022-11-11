@@ -12,14 +12,14 @@ import ShopByCategory from '../Components/HomePage/ShopByCategory'
 const LandingPage = () => {
   return (
     <div>
-        <Navbar />
+        {/* <Navbar /> */}
 
-        {/* <HealthBlog/> */}
+        <HealthBlog/>
 
-        <CatSlider />
+        {/* <CatSlider />
         <OfferSlider />
         <ShopByCategory />
-        <Footer />
+        <Footer /> */}
       
 
 

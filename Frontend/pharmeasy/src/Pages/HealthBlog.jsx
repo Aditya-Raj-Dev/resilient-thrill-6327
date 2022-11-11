@@ -3,6 +3,7 @@ import { Box, Center, Container, Flex, Image, Link, Spacer } from "@chakra-ui/re
 import styles from '../styles/blog.module.css'
 import {FaAngleDown} from 'react-icons/fa';
 import BlogBox from "../Components/Blog/BlogBox";
+import BlogList from "../Components/Blog/BlogList";
 
 
 export const HealthBlog = () => {
@@ -51,14 +52,19 @@ export const HealthBlog = () => {
     <hr/>
     </div>
     
-    <div>
+    <div className={styles.blog_container}>
       <div className={styles.leftcontainer}>
         <BlogBox/>
         <BlogBox/>
         <BlogBox/>
       </div>
       <div className={styles.rightcontainer}>
-
+        <BlogList/>
+        <BlogList/>
+        <BlogList/>
+        <BlogList/>
+        <BlogList/>
+        <BlogList/>
       </div>
     </div>
 
