@@ -21,7 +21,7 @@
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: var(--chakra-line-clamp);
-    --chakra-line-clamp: 1;
+    --chakra-line-clamp: 2;
     margin-top: 0.7rem;
     font-weight: 500;
 

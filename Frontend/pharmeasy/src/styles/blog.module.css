@@ -1,14 +1,28 @@
-
+.blog_container{
+    width: 65%;
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid; */
+    margin: auto;
+    gap: 2rem;
+    /* align-self: center; */
+}
 .leftcontainer{
+    /* border: 1px solid; */
  width: 60%;
  min-width: 25rem;
  display: flex;
  gap: 2rem 0;
  flex-direction: column;
 }
-/* .rightcontainer{
- 
-} */
+.rightcontainer{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem 0;
+    /* border: 1px solid; */
+    width: 30%;
+
+}
 
 .nav{
     display: flex;

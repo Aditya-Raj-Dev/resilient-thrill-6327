@@ -16,18 +16,14 @@ import Concern from '../Components/HomePage/Concern'
 const LandingPage = () => {
   return (
     <div>
-        <Navbar />
+        {/* <Navbar /> */}
 
-        {/* <HealthBlog/> */}
+        <HealthBlog/>
 
-        <CatSlider />
+        {/* <CatSlider />
         <OfferSlider />
         <ShopByCategory />
-        <NewLaunches />
-        <Trending />
-        <LabTest />
-        <Concern />
-        <Footer />
+
       
 
 
