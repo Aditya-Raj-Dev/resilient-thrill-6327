@@ -7,7 +7,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <AllRoutes />
+     {/* <AllRoutes /> */}
      <Cart/>
     </div>
   );
