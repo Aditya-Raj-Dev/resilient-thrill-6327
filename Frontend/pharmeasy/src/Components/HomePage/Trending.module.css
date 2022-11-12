@@ -1,0 +1,36 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+
+}
+.imgdiv{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    height: 150px;
+    width: 150px;
+    border-radius: 0.5rem;
+    margin: auto;
+    
+}
+.imgdiv>img{
+    object-fit: contain;
+    width: 120px;
+    height: 120px;
+    margin: auto;
+    padding-top: 1rem;
+    
+}
+
+.cardtitle{
+   
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    -line-clamp: 1;
+    font-weight: bold;
+
+
+}
