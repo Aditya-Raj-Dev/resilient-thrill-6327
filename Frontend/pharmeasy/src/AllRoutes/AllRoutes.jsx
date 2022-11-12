@@ -8,6 +8,8 @@ import DrawerExample from '../Aadicomp/Login/Login'
 import LandingPage from '../Pages/LandingPage'
 import MedCategoryPage from '../Pages/MedCategoryPage'
 import SingleProductPage from '../Pages/SingleProductPage'
+import Cart from '../Aadicomp/cartpage/Cart'
+import Product from '../Pages/Product'
 
 const AllRoutes = () => {
   return (
@@ -18,6 +20,8 @@ const AllRoutes = () => {
         <Route path="/blog" element={<HealthBlog/>} ></Route>
         <Route path="/singleproduct" element={<SingleProductPage />}></Route>
         <Route path="/login" element={<DrawerExample/>}/>
+        <Route path="/cart" element={<Cart/>}/>
+        <Route path="/products" element={<Product/>}/>
       </Routes>
     </div>
   )

@@ -24,7 +24,7 @@ app.post("/signup", async (req, res) => {
   const { name, email, password } = req.body;
   const data = await UserModel.findOne({ email });
   if (data) {
-    res.send({ "msg": "User Already Exhist",toast:"i" });
+    res.send({ "msg": "User Already Exist",toast:"i" });
   } else {
     bcrypt.hash(password, 5, async function (err, hashed_password) {
       if (err) {

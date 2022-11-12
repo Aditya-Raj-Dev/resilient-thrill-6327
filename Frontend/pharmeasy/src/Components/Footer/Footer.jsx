@@ -1,4 +1,3 @@
-
 import styles from "./Footer.module.css";
 import facebook from "./assets/facebook.png";
 import instagram from "./assets/instagram.png";
@@ -103,66 +102,10 @@ export const Footer = () => {
           </div>
           <div>
             <Link to="">Value Store</Link>
-
-    <div>
-      <div className="foot">
-        <div className="footdis">
-          <div>
-            <Text fontSize="xl" fontWeight="bold" textAlign="left">
-              Company
-            </Text>
-            {company.map((item) => (
-              <a href="https://pharmeasy.in/">
-                <Text textAlign="left">{item}</Text>
-              </a>
-            ))}
-            <br />
-            <Text fontSize="xl" fontWeight="bold" textAlign="left">
-              Our Services
-            </Text>
-            {service.map((item) => (
-              <a href="https://pharmeasy.in/">
-                <Text textAlign="left">{item}</Text>
-              </a>
-            ))}
-          </div>
-          <div>
-            <Text fontSize="xl" fontWeight="bold" textAlign="left">
-              Featured Category
-            </Text>
-            {feature.map((item) => (
-              <a href="https://pharmeasy.in/">
-                <Text textAlign="left">{item}</Text>
-              </a>
-            ))}
-          </div>
-          <div>
-            <Text fontSize="xl" fontWeight="bold" textAlign="left">
-              Need Help
-            </Text>
-            {help.map((item) => (
-              <a href="https://pharmeasy.in/">
-                <Text textAlign="left">{item}</Text>
-              </a>
-            ))}
-            <br />
-            <Text fontSize="xl" fontWeight="bold" textAlign="left">
-              Policy Info
-            </Text>
-            {policy.map((item) => (
-              <a href="https://pharmeasy.in/">
-                <Text textAlign="left">{item}</Text>
-              </a>
-            ))}
-          </div>
-          <div>
-            <img src={social} alt="" className="imgg" />
-
           </div>
         </div>
 
         <div>
-
           <div>
             <Heading>
               <h4>Need Help</h4>
@@ -325,3 +268,6 @@ export const Footer = () => {
           </div>
         </div>
       </div>
+    </div>
+  );
+};

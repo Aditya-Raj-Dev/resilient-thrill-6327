@@ -1,0 +1,67 @@
+.mainproduct{
+    width: 50%;
+    margin:auto;
+ display: grid;
+ grid-template-columns: repeat(3,1fr);
+ gap:2rem;
+}
+
+.mainproduct img{
+    width:50%;
+    margin: auto;
+    height: 230.64px;
+    width: 130.64px;
+    margin-bottom: 10px;
+}
+
+.productdiv{
+    justify-content: center;
+    width: 250px;
+    padding: 15px 10px 15px 10px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+.productdiv h1{
+    font-weight:bolder;
+    color: #303030;
+    font-size: 16px;
+    margin-bottom: 7px;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: var(--chakra-line-clamp);
+    --chakra-line-clamp: 2;
+    margin-top: 0.7rem;   
+    overflow: hidden;
+
+}
+
+.productdiv h2{
+    color: #8897a2;
+    font-size: 14px;
+}
+.productdiv h3{
+    color: #fff;
+    background-image: url(https://assets.pharmeasy.in/web-assets/_next/icons/pdp-discount.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-size: 10px;
+    padding: 5px;
+    padding-right: 20px;
+    text-align: left;
+    min-width: 65px;
+    height: 20px;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-weight: 600;
+
+}
+.productdiv h4{
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 600;
+color:#000000;
+text-align: left;
+margin-left: 10px;
+}
