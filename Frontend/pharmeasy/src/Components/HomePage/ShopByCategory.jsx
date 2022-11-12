@@ -10,11 +10,15 @@ import { Navigation } from "swiper";
 
 import { dbdata } from "../../db"
 import styles from "./ShopByCategory.module.css"
+import { useNavigate } from 'react-router-dom';
 
 
 
 const ShopByCategory = () => {
-
+    const navigate=useNavigate()
+  function redirect(){
+     navigate("/products")
+  }
 
 
 
@@ -41,7 +45,7 @@ const ShopByCategory = () => {
                     {dbdata?.shop_by_categories.map((item) => (
                         <SwiperSlide style={{ gap: "1rem" }}>
 
-                            <div key={item.id} className={styles.card} >
+                            <div key={item.id} className={styles.card} onClick={redirect}>
                                 <div className={styles.imgdiv}>
                                     <img src={item?.img} alt={item.id} />
                                 </div>
