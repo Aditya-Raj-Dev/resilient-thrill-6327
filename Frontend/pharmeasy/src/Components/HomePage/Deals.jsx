@@ -44,9 +44,9 @@ const Deals = () => {
                                         {item.title}
                                     </h6>
                                     {
-                                        item.off ? <h6 style={{ color: "gray", fontWeight: "600" }}>
+                                        item.off ? <h6 style={{ color: "gray", fontWeight: "600",fontSize:"14px" }}>
                                             MRP  <span> <s>₹{item.mrp}</s> </span>
-                                        </h6> : <h6 style={{ color: "gray", fontWeight: "600" }}>
+                                        </h6> : <h6 style={{ color: "gray", fontWeight: "600",fontSize:"14px" }}>
                                             MRP  ₹{item.mrp}
                                         </h6>
                                     }
