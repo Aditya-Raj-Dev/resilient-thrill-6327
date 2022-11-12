@@ -52,7 +52,7 @@ const NewLaunches = () => {
                 </h6> */}
                 { 
                 
-                    item.off ? <div style={{display:"flex", gap:"1rem", justifyContent:"center"}}><h6 style={{ fontWeight:"600"}}>₹{ Number(item.mrp) - (Number(item.mrp) * (item.off / 100))}</h6>
+                    item.off ? <div style={{display:"flex", gap:"1rem", justifyContent:"center"}}><h6 style={{ fontWeight:"600"}}>₹{ (Number(item.mrp) - (Number(item.mrp) * (item.off / 100))).toFixed(2)}</h6>
                     <h6 style={{color:"tomato" , fontWeight:"600"}}>{item.off} % OFF</h6>
                     </div> : <h6 style={{color:"white"}}> 10 </h6> 
                 }

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Flex, Heading, Text } from '@chakra-ui/react';
+import { Box, Button, Flex, Heading, Text } from '@chakra-ui/react';
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
@@ -11,11 +11,14 @@ import { Navigation } from "swiper";
 import { dbdata } from "../../db"
 import styles from "./Trending.module.css"
 
-const Trending = () => {
+const Deals = () => {
     return (
         <Box p={5} >
-            <Heading p={5} textAlign={"start"} size='md' color={"gray.700"}>Trending Near You</Heading>
-            <Text pl={5} textAlign={"start"} size='sm' color={"gray.700"}>New wellness range just for you!</Text>
+            <Flex>
+            <Heading pl={5} textAlign={"start"} size='md' color={"gray.700"}>Deals of the Day</Heading>
+            <Button pl={5} textAlign={"start"} size='sm' color={"gray.700"}>New wellness range just for you!</Button>
+            </Flex>
+            
             <Flex justifyContent={"space-between"} p={5}>
 
                 <Swiper
@@ -29,7 +32,7 @@ const Trending = () => {
                     modules={[Navigation]}
                     className="mySwiper">
 
-                    {dbdata?.trending_near_you.map((item) => (
+                    {dbdata?.deals_of_the_day.map((item) => (
                         <SwiperSlide style={{ gap: "1rem" }}>
                             <div key={item.id} className={styles.card} >
                                 <div className={styles.imgdiv}>
@@ -70,4 +73,4 @@ const Trending = () => {
     )
 }
 
-export default Trending
+export default Deals

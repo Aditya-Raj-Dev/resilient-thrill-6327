@@ -14,6 +14,7 @@ import LabTest from '../Components/HomePage/LabTest'
 import Concern from '../Components/HomePage/Concern'
 import FeaturedBrand from '../Components/HomePage/FeaturedBrand'
 import BookLabTest from '../Components/HomePage/BookLabTest'
+import Deals from '../Components/HomePage/Deals'
 
 const LandingPage = () => {
   return (
@@ -30,7 +31,9 @@ const LandingPage = () => {
         <LabTest />
         <Concern />
         <BookLabTest/>
+        <Deals />
         <FeaturedBrand />
+
         <Footer />
       
 
