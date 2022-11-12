@@ -38,3 +38,28 @@
     transform: rotate(360deg);
   }
 }
+.smallfoot{
+  display: none;
+}
+@media only screen and (max-width: 850px) {
+  .foot{
+    display: none;
+  }
+  .smallfoot{
+    display: block;
+    background-color: #eef4ff;
+  }
+}
+
+.imgg{
+  width: 200px;
+  height: 80px;
+}
+.foot{
+  background-color: #eef4ff;
+}
+.footdis{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 80px;
+}
