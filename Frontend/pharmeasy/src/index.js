@@ -15,8 +15,11 @@ const theme = extendTheme({
       100: '#fafafa',
       200: '#f7f7f7',
     },
-    pharma: '#12926F'
+    pharma: '#12926F',
+    
+
   },
+ 
 })
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
