@@ -48,19 +48,19 @@ app.post("/login", async (req, res) => {
   const { email, password } = req.body;
   const user = await UserModel.findOne({ email });
   if (!user) {
-    res.send({ "msg": "Please Login first" });
+    res.send({ "msg": "Please Signup first",toast:"i" });
   } else {
     const hashed_password = user.password;
     const user_id = user._id;
     bcrypt.compare(password, hashed_password, function (err, result) {
       if (err) {
-        res.send({ "msg": "Please Login Again" });
+        res.send({ "msg": "Please Login Again",toast:"e" });
       }
       if (result) {
         var token = jwt.sign({ user_id }, process.env.SECRET_KEY);
-        res.send({ "msg": "Login SucessFull", "token": token });
+        res.send({ "msg": "Login SucessFull", "token": token,toast:"s" });
       } else {
-        res.send({ "msg": "wrong Credential" });
+        res.send({ "msg": "wrong Credential",toast:"e" });
       }
     });
   }

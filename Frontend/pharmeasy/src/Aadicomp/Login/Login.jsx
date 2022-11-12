@@ -19,13 +19,15 @@ import {
   import "./login.css"
   import { Heading } from '@chakra-ui/react'
   import axios from "axios"
+import Login2 from './Login2'
+import { Link, useNavigate } from 'react-router-dom'
 
 
 
 
   function DrawerExample() {
 
-
+    const navigate=useNavigate()
     const toast = useToast()
     const { isOpen, onOpen, onClose } = useDisclosure()
     const btnRef = React.useRef()
@@ -44,7 +46,16 @@ import {
        setSignup({...signup,
       [name]:value})
     }
-    function registeruser(){
+    function registeruser(){ 
+      if(signup.name==="" && signup.email==="" && signup.password===""){
+        toast({
+          title: `Please Fill All Details`,
+          status: "info",
+          position:"top",
+          isClosable: true,
+        })
+        return
+      }
       axios({
         method:"post",
         url:"http://localhost:8080/signup",
@@ -54,7 +65,7 @@ import {
            password:signup.password
         }
       }).then((r)=>{
-        setLogstatus(true)
+        
         if(r.data.toast==="s"){
           toast({
             title: `${r.data.msg}`,
@@ -62,6 +73,7 @@ import {
             position:"top",
             isClosable: true,
           })
+          navigate("/")
         }
         else if(r.data.toast==="i"){
           toast({
@@ -70,6 +82,16 @@ import {
             position:"top",
             isClosable: true,
           })
+          setTimeout(()=>{
+            toast({
+              title: `You Can Login Now`,
+              status: "success",
+              position:"top",
+              isClosable: true,
+            })
+            setLogstatus(true)
+          },2000)
+         
         }
         else{
           toast({
@@ -82,6 +104,11 @@ import {
         
       })
     }
+
+    
+
+
+    
   
     
     const [size, setSize] = React.useState('')
@@ -92,8 +119,6 @@ import {
     onOpen()
     }
  
-
-
 
     return (
       <>
@@ -123,23 +148,14 @@ import {
             <br />
             <div>
                <Heading as='h4' size='md'>
-                 Quick Login / Register
+                 Quick Login / Register        
               </Heading>
+           
               <br/>
               <br />
              { logstatus?
-             <div>
-               <Input onChange={handlesignup} name="email" placeholder='Enter Your Email' size='lg' />
-               <br />
-                <br/>
-                <Input onChange={handlesignup} name="password" placeholder='Enter Your Password' size='lg' />
-               <br />
-               <br />
-             <Button colorScheme='teal' size='lg' width="400px"
-             onClick={registeruser}>
-              Login
-             </Button>
-             </div> :<div>
+             <Login2/>
+           :<div>
               <Input onChange={handlesignup} name="name" placeholder='Enter Your Name' size='lg' />
                 <br />
                 <br />
@@ -153,10 +169,19 @@ import {
               onClick={registeruser}>
                 Register
               </Button>
-              </div>}
+              <br/>
+              <br />
+                          <Button colorScheme='teal' size='lg' width="400px"
+              onClick={()=>setLogstatus(!logstatus)}>
+                Already Registered , Login
+
+              </Button>
+              </div>
+              }
              
               <br />
               <br />
+              
               <p>By clicking continue, you agree with our Privacy Policy</p>
             </div>
              
