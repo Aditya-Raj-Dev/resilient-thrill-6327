@@ -15,7 +15,6 @@ const OfferSlider = () => {
             <Flex justifyContent={"space-between"} p={5} >
 
                 <Swiper
-
                     centeredSlides={true}
                     autoplay={{
                         delay: 4500,
@@ -27,24 +26,14 @@ const OfferSlider = () => {
                     navigation={false}
                     modules={[Autoplay, Pagination, Navigation]}
                     className="mySwiper"
-
                     slidesPerView={3}
-
                     loop={true}
-                    loopFillGroupWithBlank={true}
-
-
-                    >
-
-
+                    loopFillGroupWithBlank={true}>
                     <SwiperSlide>
-
                         <Link to="/">
                             <Image style={{ padding: "5px", borderRadius: "10px" }} src="https://cdn01.pharmeasy.in/dam/banner/banner/2691dabe7c0-thyroid.jpg" />
 
                         </Link>
-
-
                     </SwiperSlide>
                     <SwiperSlide>
 
@@ -52,30 +41,18 @@ const OfferSlider = () => {
                             <Image style={{ padding: "5px", borderRadius: "10px" }} src="https://cdn01.pharmeasy.in/dam/banner/banner/782553ad506-STAR25.jpg" />
 
                         </Link>
-
-
                     </SwiperSlide>
                     <SwiperSlide>
 
                         <Link to="/">
                             <Image style={{ padding: "5px", borderRadius: "10px" }} src="https://cdn01.pharmeasy.in/dam/banner/banner/59efe8fe01e-634X274.jpg" />
                         </Link>
-
-
                     </SwiperSlide>
                     <SwiperSlide>
-
                         <Link to="/">
                             <Image style={{ padding: "5px", borderRadius: "10px" }} src="https://cdn01.pharmeasy.in/dam/banner/banner/b3a4bdb683b-1.jpg" />
                         </Link>
-
-
                     </SwiperSlide>
-
-
-
-
-
                 </Swiper>
             </Flex>
 

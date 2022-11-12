@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Button, Flex, Heading } from '@chakra-ui/react';
+import { Box, Flex, Heading } from '@chakra-ui/react';
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
@@ -11,12 +11,13 @@ import { Navigation } from "swiper";
 import { dbdata } from "../../db"
 import styles from "./Trending.module.css"
 
-const Deals = () => {
+const SpotLight = () => {
     return (
-        <Box p={5} >
+        <Box p={5}>
+
             <Flex gap={4}>
-            <Heading pl={5} textAlign={"start"} size='md' color={"gray.700"}>Deals of the Day</Heading>
-            <Button pl={5} textAlign={"start"} size='sm' color={"gray.700"} colorScheme={"yellow"}> 10 Min Left, Hurry!</Button>
+            <Heading pl={5} textAlign={"start"} size='md' color={"gray.700"}>In the Spotlight</Heading>
+            {/* <Button pl={5} textAlign={"start"} size='sm' color={"gray.700"} colorScheme={"yellow"}> 10 Min Left, Hurry!</Button> */}
             </Flex>
             
             <Flex justifyContent={"space-between"} p={5}>
@@ -32,7 +33,7 @@ const Deals = () => {
                     modules={[Navigation]}
                     className="mySwiper">
 
-                    {dbdata?.deals_of_the_day.map((item) => (
+                    {dbdata?.in_the_spotlight.map((item) => (
                         <SwiperSlide style={{ gap: "1rem" }}>
                             <div key={item.id} className={styles.card} >
                                 <div className={styles.imgdiv}>
@@ -73,4 +74,4 @@ const Deals = () => {
     )
 }
 
-export default Deals
+export default SpotLight

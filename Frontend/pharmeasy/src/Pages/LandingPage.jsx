@@ -1,6 +1,6 @@
 import React from 'react'
-import Footer from '../Components/Footer/Footer'
 
+import {Footer} from "../Components/Footer/Footer"
 import CatSlider from '../Components/HomePage/CatSlider'
 import Navbar from '../Components/HomePage/Navbar'
 
@@ -15,6 +15,7 @@ import Concern from '../Components/HomePage/Concern'
 import FeaturedBrand from '../Components/HomePage/FeaturedBrand'
 import BookLabTest from '../Components/HomePage/BookLabTest'
 import Deals from '../Components/HomePage/Deals'
+import SpotLight from '../Components/HomePage/SpotLight'
 
 const LandingPage = () => {
   return (
@@ -32,9 +33,10 @@ const LandingPage = () => {
         <Concern />
         <BookLabTest/>
         <Deals />
+        <SpotLight />
         <FeaturedBrand />
-
         <Footer />
+        
       
 
 
