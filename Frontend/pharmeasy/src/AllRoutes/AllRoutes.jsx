@@ -18,7 +18,6 @@ const AllRoutes = () => {
         <Route path="/blog" element={<HealthBlog/>} ></Route>
         <Route path="/singleproduct" element={<SingleProductPage />}></Route>
         <Route path="/login" element={<DrawerExample/>}/>
-
       </Routes>
     </div>
   )

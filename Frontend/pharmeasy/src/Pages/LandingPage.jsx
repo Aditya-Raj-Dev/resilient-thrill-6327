@@ -19,13 +19,17 @@ import Deals from '../Components/HomePage/Deals'
 const LandingPage = () => {
   return (
     <div>
-        <Navbar />
+      <Navbar/>
+      {/* <HealthBlog/> */}
 
-        {/* <HealthBlog/> */}
+        {/* <Navbar /> */}
 
-        <CatSlider />
+        <HealthBlog/>
+
+        {/* <CatSlider />
         <OfferSlider />
         <ShopByCategory />
+
         <NewLaunches />
         <Trending />
         <LabTest />
@@ -35,9 +39,9 @@ const LandingPage = () => {
         <FeaturedBrand />
 
         <Footer />
+
+
       
-
-
     </div>
   )
 }

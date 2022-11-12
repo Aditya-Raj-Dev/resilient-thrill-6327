@@ -19,19 +19,70 @@ import {
   import "./login.css"
   import { Heading } from '@chakra-ui/react'
   import axios from "axios"
-  import { PinInput, PinInputField } from '@chakra-ui/react'
+
+
+
 
   function DrawerExample() {
+
+
     const toast = useToast()
     const { isOpen, onOpen, onClose } = useDisclosure()
     const btnRef = React.useRef()
-   // *****FOR NUMBER ******
-    const [number,setNumber]=useState("")
 
-  // *****FOR OTP ******
-    const [pin,setPin]=useState([])
 
-    const [showinput,setShowinput]=useState(false)
+   // *****  FOR  RESISTER ******
+   const [logstatus,setLogstatus]=useState(false)
+    const [signup,setSignup]=useState({
+       name:"",
+       email:"",
+       password:""
+    })
+
+    function handlesignup(e){
+       const {name,value}=e.target
+       setSignup({...signup,
+      [name]:value})
+    }
+    function registeruser(){
+      axios({
+        method:"post",
+        url:"http://localhost:8080/signup",
+        data:{
+           name:signup.name,
+           email:signup.email,
+           password:signup.password
+        }
+      }).then((r)=>{
+        setLogstatus(true)
+        if(r.data.toast==="s"){
+          toast({
+            title: `${r.data.msg}`,
+            status: "success",
+            position:"top",
+            isClosable: true,
+          })
+        }
+        else if(r.data.toast==="i"){
+          toast({
+            title: `${r.data.msg}`,
+            status: "info",
+            position:"top",
+            isClosable: true,
+          })
+        }
+        else{
+          toast({
+            title: `${r.data.msg}`,
+            status: "error",
+            position:"top",
+            isClosable: true,
+          })
+        }
+        
+      })
+    }
+  
     
     const [size, setSize] = React.useState('')
     
@@ -42,60 +93,8 @@ import {
     }
  
 
-//  *******   FOR ENTERING THE OTP  ******
-   let pinarray=[]
-   let num
- function handlepininput(e){
-  num=e.target.value
-  pinarray.push(num)
- }
-console.log(pinarray)
- var OTP
-// console.log(pinarray.toString("").split(",").join(""))
 
 
-   
-    function handleotpbutton(){
-      if(number.length >10 || number.length<10 || number===0){
-           toast({
-                  title: `Incorrect Number`,
-                  status: "error",
-                  isClosable: true,
-                  position:"top"
-                })
-                return
-      }
-          axios({
-            method:"post",
-            url:"http://localhost:8080/login",
-            data:{
-              number
-            }
-          })
-          .then((r)=>{
-            OTP=r.data.otp
-              toast({
-                title: `your OTP is ${r.data.otp}`,
-                status: "success",
-                isClosable: true,
-                position:"top"
-              })
-            setShowinput(true)
-          })
-    }
-
-
-    useEffect(()=>{
-       if(pin==OTP){
-        toast({
-          title: `Login Success`,
-          status: "success",
-          isClosable: true,
-          position:"top"
-        })
-        onClose()
-       }
-    },[handlepininput])
     return (
       <>
         <Box
@@ -127,26 +126,35 @@ console.log(pinarray)
                  Quick Login / Register
               </Heading>
               <br/>
-             {showinput?
-             <HStack>
-              <PinInput>
-                <PinInputField onChange={handlepininput}/>
-                <PinInputField onChange={handlepininput}/>
-                <PinInputField onChange={handlepininput}/>
-                <PinInputField onChange={handlepininput}/>
-              </PinInput>
-           </HStack>: 
-           <Input onChange={(e)=>setNumber(e.target.value)}  maxlength={10} placeholder='Enter Your Mobile Number' size='lg' />}
+              <br />
+             { logstatus?
+             <div>
+               <Input onChange={handlesignup} name="email" placeholder='Enter Your Email' size='lg' />
+               <br />
+                <br/>
+                <Input onChange={handlesignup} name="password" placeholder='Enter Your Password' size='lg' />
+               <br />
+               <br />
+             <Button colorScheme='teal' size='lg' width="400px"
+             onClick={registeruser}>
+              Login
+             </Button>
+             </div> :<div>
+              <Input onChange={handlesignup} name="name" placeholder='Enter Your Name' size='lg' />
+                <br />
+                <br />
+                <Input onChange={handlesignup} name="email" placeholder='Enter Your Email' size='lg' />
                 <br />
                  <br/>
-              {showinput?<Button colorScheme='teal' size='lg' width="400px"
-              onClick={onClose}>
-                LOGIN
-              </Button>:
+                 <Input onChange={handlesignup} name="password" placeholder='Enter Your Password' size='lg' />
+                <br />
+                <br />
               <Button colorScheme='teal' size='lg' width="400px"
-              onClick={handleotpbutton}>
-                Send OTP
-              </Button>}
+              onClick={registeruser}>
+                Register
+              </Button>
+              </div>}
+             
               <br />
               <br />
               <p>By clicking continue, you agree with our Privacy Policy</p>
