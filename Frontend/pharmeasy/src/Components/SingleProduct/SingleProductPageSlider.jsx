@@ -14,7 +14,8 @@ const SingleProductPageSlider = () => {
 
   useEffect(()=>{
     async function getmendata(){
-      let r= await axios.get(`http://localhost:8081/product/${param.id}`)
+      console.log(param.id)
+      let r= await axios.get(`https://easy-ruby-peacock-hose.cyclic.app/api/products/${param.id}`)
       .then((res)=>{
         let y=  res.data
         setProduct(y)
@@ -31,6 +32,10 @@ const SingleProductPageSlider = () => {
 
   return (
     <div className={styles.bigbox12}>
+    <br />
+    <br />
+    <br />
+    <br />
         <Flex>
             <Box className={styles.border1}>
                <Box className={styles.bordercolor}>

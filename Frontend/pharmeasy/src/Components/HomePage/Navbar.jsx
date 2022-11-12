@@ -14,8 +14,10 @@ import {
     DrawerContent,
     useDisclosure,
     DrawerCloseButton,
+    Spacer
   } from '@chakra-ui/react'
 import DrawerExample from '../../Aadicomp/Login/Login'
+import Searchbar from './Searchbar'
 
 
 const Navbar=() => {
@@ -26,8 +28,9 @@ const Navbar=() => {
         <div position={"fixed"} zIndex="1">
             <SimpleGrid columns={[3, 2, 2, 1]} spacing={10}>
                 <Box >
-                    <Stack>
-                        <Flex justifyContent={"space-between"} padding={"1rem"} gap={"5"}>
+                <Stack >
+                    <Box position={"fixed"} w={"100%"} style={{zIndex:"1"}} >
+                        <Flex justifyContent={"space-between"} padding={"1rem"} gap={"5"} >
                             <Flex gap={"15px"} cursor={"pointer"}>
                                 <Link to="/"><Box><Image height='40px' width='140px' src="https://assets.pharmeasy.in/apothecary/images/logo_big.svg?dim=256x0" /></Box></Link>
                                 <Button variant='ghost' colorScheme='white' gap={"2"}>
@@ -35,6 +38,7 @@ const Navbar=() => {
                                     <Box fontSize={"sm"}>Mumbai</Box>
                                 </Button>
                             </Flex>
+                            <Spacer />
                             <Flex justifyContent={"space-around"} gap={"5"}>
                                 <a href="https://apps.apple.com/IN/app/id982432643?mt=8"><Button colorScheme='gray' gap={"2"}>
                                     <Box fontSize={"sm"}><FaMobileAlt /></Box>
@@ -55,35 +59,11 @@ const Navbar=() => {
                                 </Button>
                             </Flex>
                         </Flex>
-                    </Stack>
+                        
+                    </Box>
+                    </Stack>
                     <hr />
                     <br />
-                    <Flex justifyContent={"center"} padding={"1rem"} gap={"100"}>
-                        <Flex  >
-
-                            <Button variant='ghost' colorScheme='white' gap={"2"}>
-
-                                <Box fontSize={"xl"}>What are you looking for ?</Box>
-                            </Button>
-                        </Flex>
-                        <Flex justifyContent={"space-around"} >
-
-                            <Button variant="ghost" colorScheme='white' gap={"2"}>
-                                <Box fontSize={"sm"}><TbNotes /></Box>
-                                <Box fontSize={"sm"}>Order with prescription.</Box>
-                            </Button>
-                            <Button variant='link' colorScheme='teal' gap={"2"}>
-                                <Box fontSize={"sm"}>UPLOAD NOW</Box>
-                                <Box fontSize={"sm"}><FaGreaterThan /></Box>
-
-
-                            </Button>
-                        </Flex>
-                    </Flex>
-                    <Flex justifyContent={"center"}>
-                    <Input colorScheme='teal' width='600px' padding={"1rem"} borderRadius={"2rem"} color={"GrayText"} fontSize={"sm"} placeholder='Search for Medicine, Health Drinks'   />
-                    <Button borderRadius={"2rem"} colorScheme='teal'>Search</Button>
-                    </Flex>
                 </Box>
 
             </SimpleGrid>
