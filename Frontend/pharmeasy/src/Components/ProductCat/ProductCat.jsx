@@ -3,9 +3,19 @@ import React from 'react'
 import { useState } from 'react'
 import { useEffect } from 'react'
 import "./Product.css"
+import {useNavigate} from "react-router-dom"
+
+
 
 
 const ProductCat = () => {
+    const navigate=useNavigate()
+
+    function sendsinglepage(id){
+       navigate(`/products/${id}`)
+    }
+
+
     const [data,setData]=useState([])
     const getData=()=>{
         axios.get("https://easy-ruby-peacock-hose.cyclic.app/api/products")
@@ -25,7 +35,7 @@ const ProductCat = () => {
     <div className='mainproduct'>
         {
             data.map((item)=>(
-                <div key={item.id}className="productdiv">
+                <div key={item.id}className="productdiv"  onClick={()=>sendsinglepage(item.id)}>
                     <img src={item.img1} alt="" />
                     <h1>{item.title}</h1>
                     <div style={{display:"flex",justifyContent:"space-around",marginRight:"2rem"}}>

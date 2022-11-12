@@ -16,17 +16,18 @@ import FeaturedBrand from '../Components/HomePage/FeaturedBrand'
 import BookLabTest from '../Components/HomePage/BookLabTest'
 import Deals from '../Components/HomePage/Deals'
 import SpotLight from '../Components/HomePage/SpotLight'
+import Searchbar from '../Components/HomePage/Searchbar'
 
 const LandingPage = () => {
   return (
     <div>
-      <Navbar/>
       {/* <HealthBlog/> */}
 
         {/* <Navbar /> */}
 
         {/* <HealthBlog/> */}
-
+        <br />
+         <Searchbar/>
          <CatSlider />
         <OfferSlider />
         <ShopByCategory />
@@ -39,7 +40,7 @@ const LandingPage = () => {
         <Deals />
         <SpotLight />
         <FeaturedBrand />
-        <Footer />
+      
 
 
       
