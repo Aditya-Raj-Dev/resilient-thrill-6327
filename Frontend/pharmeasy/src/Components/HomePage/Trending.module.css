@@ -6,7 +6,8 @@
 
 }
 .imgdiv{
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
     height: 150px;
     width: 150px;
     border-radius: 0.5rem;
@@ -23,7 +24,9 @@
 }
 
 .cardtitle{
-   
+    font-size: 16px;
+    color:#30363c;
+    font-family: sans-serif;
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
@@ -31,6 +34,8 @@
     -webkit-line-clamp: 1;
     -line-clamp: 1;
     font-weight: bold;
-
+    font-size: 16px;
+    color:#30363c;
+    font-family: sans-serif;
 
 }

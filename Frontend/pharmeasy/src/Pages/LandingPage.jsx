@@ -24,9 +24,9 @@ const LandingPage = () => {
 
         {/* <Navbar /> */}
 
-        <HealthBlog/>
+        {/* <HealthBlog/> */}
 
-        {/* <CatSlider />
+         <CatSlider />
         <OfferSlider />
         <ShopByCategory />
 
