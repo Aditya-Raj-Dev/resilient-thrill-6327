@@ -1,5 +1,7 @@
 const { CartModel } = require("../Model/cart.model")
-const cors=require("cors")
+const cors=require("cors");
+
+
 const GetCart=async (req,res)=>{
    const data= await CartModel.find()
     res.send({"data":data})

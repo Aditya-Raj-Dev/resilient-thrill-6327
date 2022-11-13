@@ -1,6 +1,6 @@
 import { Box, Button, Flex, Image, Input, SimpleGrid, Stack } from '@chakra-ui/react'
 import React from 'react'
-import { Link, Navigate } from 'react-router-dom'
+import { Link, Navigate, useNavigate } from 'react-router-dom'
 import { FaGreaterThan, FaMapMarkerAlt, FaMobileAlt, FaShoppingCart, FaUserAlt } from 'react-icons/fa'
 import { CiPercent } from 'react-icons/ci'
 import { TbNotes } from 'react-icons/tb'
@@ -23,6 +23,11 @@ import Searchbar from './Searchbar'
 const Navbar=() => {
     const [count] = useState(0)
     const { isOpen, onOpen, onClose } = useDisclosure()
+    const navigate = useNavigate();
+
+    function gotocart(){
+         navigate("/cart")
+    }
 
     return (
         <div position={"fixed"} zIndex="1">
@@ -55,7 +60,7 @@ const Navbar=() => {
                                 <Button variant='ghost' colorScheme='white' gap={"2"}>
                                     <Box fontSize={"sm"}><FaShoppingCart /></Box>
                                     <Box fontSize='xs'>{count} </Box>
-                                    <Box fontSize={"sm"}>Cart</Box>
+                                    <Box onClick={gotocart} fontSize={"sm"}>Cart</Box>
                                 </Button>
                             </Flex>
                         </Flex>

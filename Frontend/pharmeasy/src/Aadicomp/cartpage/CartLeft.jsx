@@ -7,7 +7,7 @@ import { GetAllcart } from '../../Redux/CartRedux/cart.action'
 
 const CartLeft = () => {
   const dispatch=useDispatch()
-  const data=useSelector((state)=>state)
+  const data=useSelector((state)=>state.cartreducer.data)
   console.log(data)
 
   useEffect(()=>{
@@ -16,7 +16,15 @@ const CartLeft = () => {
   return (
     <div>
         <div>
-
+              {
+                data.map((item)=> (
+                   <div>
+                      
+                      <div>{item.title}</div>
+                      <div></div>
+                   </div>
+                ))
+              }
         </div>
     </div>
   )
