@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useCallback, useEffect, useState } from 'react'
 
 import {Footer} from "../Components/Footer/Footer"
 import CatSlider from '../Components/HomePage/CatSlider'
@@ -18,7 +18,28 @@ import Deals from '../Components/HomePage/Deals'
 import SpotLight from '../Components/HomePage/SpotLight'
 import Searchbar from '../Components/HomePage/Searchbar'
 
+import { useDispatch, useSelector } from "react-redux";
+import axios from 'axios'
+
+
 const LandingPage = () => {
+
+  
+  const [productsList, setProductsList] = useState([])
+  const products = useSelector((state)=> state.AppRedux.products )
+  const dispatch = useDispatch()
+  const getAllData=()=>{
+    axios.get("https://easy-ruby-peacock-hose.cyclic.app/api/products").then((res)=> setProductsList(res.data))
+    .catch((err)=> console.log(err))
+  }
+  useEffect(()=>{
+    getAllData()
+    
+  },[dispatch ])
+
+
+
+
   return (
     <div>
       {/* <HealthBlog/> */}
@@ -27,7 +48,7 @@ const LandingPage = () => {
 
         {/* <HealthBlog/> */}
         <br />
-         <Searchbar/>
+         <Searchbar productsList={productsList} setProductsList={setProductsList} />
          <CatSlider />
         <OfferSlider />
         <ShopByCategory />
