@@ -10,6 +10,8 @@ import MedCategoryPage from '../Pages/MedCategoryPage'
 import SingleProductPage from '../Pages/SingleProductPage'
 import Cart from '../Aadicomp/cartpage/Cart'
 import Product from '../Pages/Product'
+import PaymentPage from '../Pages/PaymentPage'
+import { Thankyou } from '../Pages/Thankyou'
 
 const AllRoutes = () => {
   return (
@@ -22,6 +24,8 @@ const AllRoutes = () => {
         <Route path="/login" element={<DrawerExample/>}/>
         <Route path="/cart" element={<Cart/>}/>
         <Route path="/products" element={<Product/>}/>
+        <Route path="/payment" element={<PaymentPage/>}/>
+        <Route path="/thankyou" element={<Thankyou/>}/>
       </Routes>
     </div>
   )

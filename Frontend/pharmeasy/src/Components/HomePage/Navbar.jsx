@@ -88,14 +88,14 @@ const Navbar = () => {
                                     <Box onClick={gotocart} fontSize={"sm"}>Cart</Box>
                                 </Button>
                             </Flex>
-                        </Flex>
+                        {/* </Flex> */}
                         
                     </Box>
-                    </Stack>
+            {/*         </Stack> */}
 
                     <hr />
                     <br />
-                </Box>
+                {/* // </Box> */}
 
             </SimpleGrid>
 
