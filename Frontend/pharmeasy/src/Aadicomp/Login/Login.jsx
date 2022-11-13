@@ -58,7 +58,7 @@ import { Link, useNavigate } from 'react-router-dom'
       }
       axios({
         method:"post",
-        url:"https://pharmeasy-api.onrender.com/signup",
+        url:"https://medeasy.up.railway.app/signup",
         data:{
            name:signup.name,
            email:signup.email,

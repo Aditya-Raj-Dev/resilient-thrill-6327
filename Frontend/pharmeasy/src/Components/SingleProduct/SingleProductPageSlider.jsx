@@ -36,19 +36,20 @@ const SingleProductPageSlider = () => {
     <br />
     <br />
     <br />
+    
         <Flex>
             <Box className={styles.border1}>
                <Box className={styles.bordercolor}>
-                     
+               <img src={product.img1} alt="" />
                </Box>
                <Flex className={styles.smallboxflex}>
-                 <Box className={styles.smallbox}></Box>
-                 <Box className={styles.smallbox}></Box>
-                 <Box className={styles.smallbox}></Box>
+                 <Box className={styles.smallbox}><img src={product.img1} alt="" /></Box>
+                 <Box className={styles.smallbox}><img src={product.img2} alt="" /></Box>
+                 <Box className={styles.smallbox}><img src={product.img3} alt="" /></Box>
                </Flex>
             </Box>
             <Box className={styles.sideinfo}>
-                <h2 >Dettol Antiseptic Liquid Bottle Of 550 Ml</h2>
+                <h2 >{product.title}</h2>
                  <Flex><AiFillStar className={styles.starbig} />
                  <AiFillStar className={styles.starbig} />
                  <AiFillStar className={styles.starbig} />
@@ -56,7 +57,7 @@ const SingleProductPageSlider = () => {
                  <AiFillStar className={styles.starbig} />
                  <p className={styles.upsidehea}>(1220 ratings)</p></Flex>
               <Flex gap={"300px"}>
-              <h3>$207</h3>
+              <h3>price pay-${product.mrp}</h3>
               
               <button className={styles.addtocart}>Add To Cart</button>
               </Flex>

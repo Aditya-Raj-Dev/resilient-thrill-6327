@@ -6,25 +6,31 @@ const mongoose=require("mongoose")
 //     password:{type:String,required:true}
 // })
 
-const CartSchema= mongoose.Schema({
-        id:
-        String,
-        name:
-        String,
-        img:
-        Array,
-        price:
-        Number,
-        cost:
-        Number,
-        off:
-        String,
-        pack:
-        String
-        ,qty:Number
-    })
+// const CartSchema= mongoose.Schema({
+//         id:
+//         String,
+//         name:
+//         String,
+//         img:
+//         Array,
+//         price:
+//         Number,
+//         cost:
+//         Number,
+//         off:
+//         String,
+//         pack:
+//         String
+//         ,qty:Number
+//     })
+const Shopscema=new mongoose.Schema({
+    id:String,
+    img:String,
+    title:String
+})
 
 
-const CartModel=mongoose.model("cart",CartSchema)
+// const CartModel=mongoose.model("cart",CartSchema)
+const CartModel=mongoose.model("shop",Shopscema)
 
 module.exports={CartModel}
