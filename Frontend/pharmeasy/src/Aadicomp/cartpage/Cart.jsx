@@ -5,9 +5,12 @@ import CartRight from './Cartright'
 const Cart = () => {
   return (
     <div>
+      <br />
+      <br />
+      <br />
         <div style={{display:"flex"}}>
             <CartLeft/>
-            <CartRight/>
+            {/* <CartRight/> */}
         </div>
     </div>
   )
