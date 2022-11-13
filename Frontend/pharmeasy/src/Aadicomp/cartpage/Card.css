@@ -1,0 +1,37 @@
+.cardimg{
+    width: 80px;
+    margin-right: 20px;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    width: 600px;
+    border: 1px solid #303030;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 20px;
+}
+.itemname{
+    font-size:x-large;
+}
+.itemd{
+    width: 70%;
+    text-align: left;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+}
+.mainbox{
+ margin-top: 2rem;
+}
+.container{
+    display: flex;
+    width:70%;
+    margin:auto;
+    gap:5rem;
+    margin-top: 2rem;
+
+}
