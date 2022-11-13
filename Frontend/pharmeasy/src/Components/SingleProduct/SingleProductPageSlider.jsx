@@ -12,6 +12,26 @@ const SingleProductPageSlider = () => {
   const param= useParams();
 
 
+   const addtocart=()=>{
+      axios({
+         method:"post",
+         url:"https://medeasy.up.railway.app/cart",
+         data:{
+        id:product.id,
+        title:product.title,
+        img1:product.img1,
+        img2:product.img2,
+        img3:product.img3,
+        ancestor:product.ancestor,
+        mrp:product.mrp,
+        strike:product.strike,
+        discount:product.discount,
+         }
+      }).then((r)=>{
+         console.log("ok")
+      })
+   }
+
   useEffect(()=>{
     async function getmendata(){
       console.log(param.id)
@@ -59,7 +79,7 @@ const SingleProductPageSlider = () => {
               <Flex gap={"300px"}>
               <h2 className={styles.price}>${product.mrp}</h2>
               
-              <button className={styles.addtocart}>Add To Cart</button>
+              <button className={styles.addtocart} onClick={addtocart}>Add To Cart</button>
               </Flex>
 
               <h6 className={styles.deliverys}>Delivery by Tomorrow, before 10:00 pm</h6>

@@ -7,7 +7,8 @@ const bcrypt = require("bcrypt");
 var jwt = require("jsonwebtoken");
 const {CartRouter}=require("./Routes/Cart.route");
 const { CartModel } = require("./Model/cart.model");
-const {Shopmodel} =require("./Model/shopmodel")
+const {Shopmodel} =require("./Model/shopmodel");
+const { CovidModel } = require("./Model/covid.model");
 
 const app = express();
 app.use(cors())
@@ -15,24 +16,31 @@ app.use(express.json());
 
 
 app.use("/cart",CartRouter)
+
+
 app.get("/",(req,res)=>{
   res.send({"msg":"products"})
 })
 
-app.post("/shop",async (req, res) => {
-  const {id,img,title}=req.body;
-  const new_products= Shopmodel({
-    id,img,title
-  })
-  await new_products.save()
+// app.post("/shop",async (req, res) => {
+//   const {id ,name,img,price,cost,off,pack}=req.body;
+//   const new_products= CovidModel({
+//     id ,name,
+//     img,
+//     price,
+//     cost,
+//     off,
+//     pack
+//   })
+//   await new_products.save()
 
-  res.send({ "msg": "Welcome to Pharmesy" });
-});
+//   res.send({ "msg": "Welcome to Pharmesy" });
+// });
 
-app.get("/shop",async (req, res) => {
-  const new_products= await Shopmodel.find()
-  res.send({ "msg": "Welcome to Pharmesy","data":new_products });
-});
+// app.get("/shop",async (req, res) => {
+//   const new_products= await Shopmodel.find()
+//   res.send({ "msg": "Welcome to Pharmesy","data":new_products });
+// });
 
 //   ****SIGNUP ROUTE***** //
 

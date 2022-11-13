@@ -1,7 +1,8 @@
-const CartSchema= mongoose.Schema({
+const mongoose =require("mongoose")
+const CovidSchema= mongoose.Schema({
     id:String,
     name:String,
-    img:Array,
+    img:[String],
     price:Number,
     cost: Number,
     off: String,
@@ -9,6 +10,6 @@ const CartSchema= mongoose.Schema({
 })
 
 
-const CartModel=mongoose.model("covid",CartSchema)
+const CovidModel=mongoose.model("covid",CovidSchema)
 
-module.exports={CartModel}
+module.exports={CovidModel}
