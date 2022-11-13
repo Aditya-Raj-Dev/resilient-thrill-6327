@@ -41,16 +41,6 @@
 .smallfoot{
   display: none;
 }
-@media only screen and (max-width: 850px) {
-  .foot{
-    display: none;
-  }
-  .smallfoot{
-    display: block;
-    background-color: #eef4ff;
-  }
-}
-
 .imgg{
   width: 200px;
   height: 80px;
@@ -62,4 +52,60 @@
   display: flex;
   justify-content: space-around;
   padding-top: 80px;
+}
+.tagimg{
+  width: 40px;
+  margin-right: 10px;
+  background-color: none;
+}
+.paymentpage{
+  display: flex;
+  justify-content: space-around;
+  width: 90%;
+  margin: auto;
+}
+.paymentleft{
+  width: 50%;
+}
+.paymentright{
+  width: 30%;
+}
+.paid{
+  border: 1px dotted gray;
+  border-left: none;
+  border-right: none;
+  padding: 5px 0;
+}
+.saving{
+  border:1px dotted #3bb896;
+  background-color: #f2fff8;
+  display: inline-flex;
+  margin-top: 14px;
+  padding: 10px 17px 10px 17px;
+  border-radius: 5px;
+  margin-bottom: 2.5rem;
+}
+.saving p{
+  color: #3bb896;
+}
+
+@media only screen and (max-width: 850px) {
+  .foot{
+    display: none;
+  }
+  .smallfoot{
+    display: block;
+    width: 100%;
+    background-color: #eef4ff;
+  }
+  .paymentright{
+    display: none;
+  }
+  .paymentleft{
+    width: 100%;
+    border: 1px solid black;
+  }
+  .paymentpage{
+    width: 100%;
+  }
 }

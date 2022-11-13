@@ -3,9 +3,14 @@ import "./cartleft.css"
 import { FcHome } from 'react-icons/fc';
 import { Button, ButtonGroup } from '@chakra-ui/react'
 import { useSelector } from 'react-redux';
+import { useNavigate } from 'react-router-dom';
 
 
 const CartRight = () => {
+  const navigate = useNavigate();
+  const handleNavigate = () => {
+    navigate("/payment");
+  };
   const data=useSelector((state)=>state.cartreducer.data)
   const sum = data.reduce(function (result, item) {
     return result + item.mrp;
@@ -33,7 +38,7 @@ const CartRight = () => {
                 <h1 className='applycoupon'>Apply Coupon / View Offers</h1>
              </div>
              <div>
-                <Button colorScheme='teal' size='md' width="326px">
+                <Button colorScheme='teal' size='md' width="326px" onClick={()=>handleNavigate()}>
                   Proceed To Buy
                 </Button>
              </div>
