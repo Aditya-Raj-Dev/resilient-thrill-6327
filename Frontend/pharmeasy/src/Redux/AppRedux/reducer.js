@@ -1,6 +1,6 @@
 import * as types from "./actionTypes"
 const initialState = {
-  products: [],
+  productsList: [],
   isLoading: false,
   isError: false,
 };
@@ -13,9 +13,9 @@ export const reducer = (state = initialState,action) => {
     case types.GET_MEDICINE_REQUEST:
       return{...state, isLoading:true, isError:false}
     case types.GET_MEDICINE_SUCCESS:
-      return{...state,products:payload, isLoading:false, isError:false}
+      return{...state,productsList:payload, isLoading:false, isError:false}
     case types.GET_MEDICINE_FAILURE:
-      return{...state, products:[], isLoading:false, isError:true}    
+      return{...state, productsList:[], isLoading:false, isError:true}    
   }
   
 }
