@@ -9,7 +9,7 @@ import "swiper/css/bundle"
 import { Navigation } from "swiper";
 
 import { dbdata } from "../../db"
-import styles from "./Trending.module.css"
+import styles from "./Trending.module.css";
 
 const Trending = () => {
     return (

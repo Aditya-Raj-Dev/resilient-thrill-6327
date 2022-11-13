@@ -15,7 +15,8 @@ const SingleProductPageSlider = () => {
    const addtocart=()=>{
       axios({
          method:"post",
-         url:"https://medeasy.up.railway.app/cart",
+         // url:"https://medeasy.up.railway.app/cart",
+         url:"http://localhost:8080/cart",
          data:{
         id:product.id,
         title:product.title,
@@ -28,7 +29,7 @@ const SingleProductPageSlider = () => {
         discount:product.discount,
          }
       }).then((r)=>{
-         console.log("ok")
+         console.log("ok by dep url",product)
       })
    }
 

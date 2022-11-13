@@ -1,15 +1,15 @@
 import React from 'react'
 import CartLeft from './CartLeft'
 import CartRight from './Cartright'
+import "./Card.css"
 
 const Cart = () => {
   return (
-    <div>
-        <div style={{display:"flex"}}>
+        <div className='container'>
             <CartLeft/>
             <CartRight/>
         </div>
-    </div>
+  
   )
 }
 

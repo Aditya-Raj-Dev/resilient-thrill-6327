@@ -25,7 +25,7 @@ const SingleProductPage = () => {
   const navigate = useNavigate();
  
   const handleViewCart = () => {
-    navigate("/");
+    navigate("/cart");
   };
 
   return (

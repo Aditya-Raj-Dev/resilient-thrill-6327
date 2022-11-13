@@ -9,7 +9,8 @@
     width:80%;
     margin: auto;
     display:flex;
-    gap:4rem;
+    margin-top:40px;
+  
 }
 .delivery{
     font-weight: bold;
