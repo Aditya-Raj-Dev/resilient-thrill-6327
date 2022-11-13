@@ -6,7 +6,7 @@ const CartSchema= mongoose.Schema({
         img1:String,
         img2:String,
         img3:String,
-        ancestor:String,
+        ancestor:{type: Array},
         mrp:Number,
         strike:Number,
         discount:Number,

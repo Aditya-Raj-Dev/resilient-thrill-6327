@@ -5,8 +5,11 @@ const GetCart=async (req,res)=>{
     res.send({"data":data})
 }
 /// cart code****
-const Postcart=async(req,res)=>{
+const Postcart = async(req,res)=>{
  const {id, title, img1,img2,img3,ancestor, mrp,strike,discount, qty}=req.body;
+// const product = req.body;
+
+//  const new_data= CartModel(product)
  const new_data= CartModel({
    id, title, img1,img2,img3,ancestor, mrp,strike,discount, qty
  })
@@ -14,12 +17,13 @@ await new_data.save()
  res.send({"msg":"Product Added To The Cart"})
 }
 
-const Deletecart=(req,res)=>{
+// const Deletecart=(req,res)=>{
 
-}
+// }
 
-const Updatecart=(req,res)=>{
+// const Updatecart=(req,res)=>{
 
-}
+// }
 
-module.exports={GetCart,Postcart,Deletecart,Updatecart}
+// module.exports={GetCart,Postcart,Deletecart,Updatecart}
+module.exports={GetCart,Postcart}
