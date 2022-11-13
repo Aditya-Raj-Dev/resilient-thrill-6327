@@ -5,7 +5,8 @@ require("dotenv").config();
 const cors=require("cors")
 const bcrypt = require("bcrypt");
 var jwt = require("jsonwebtoken");
-const {CartRouter}=require("./Routes/Cart.route")
+const {CartRouter}=require("./Routes/Cart.route");
+const { CartModel } = require("./Model/cart.model");
 
 const app = express();
 app.use(cors())
@@ -13,8 +14,17 @@ app.use(express.json());
 
 
 app.use("/cart",CartRouter)
+app.get("/",(req,res)=>{
+  res.send({"msg":"products"})
+})
 
-app.get("/", (req, res) => {
+app.post("/shop",async (req, res) => {
+  const {id,img,title}=req.body;
+  const new_products=new CartModel({
+    id,img,title
+  })
+  await new_products.save()
+
   res.send({ "msg": "Welcome to Pharmesy" });
 });
 

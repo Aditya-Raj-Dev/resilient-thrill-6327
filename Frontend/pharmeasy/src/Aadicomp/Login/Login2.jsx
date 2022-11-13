@@ -25,7 +25,7 @@ const Login2 = () => {
         axios({
             method:"post",
             mode:"cors",
-            url:"https://pharmeasy-api.onrender.com/login",
+            url:"https://medeasy.up.railway.app/login",
             data:{
                email:login.emaillogin,
                password:login.passwordlogin
