@@ -40,7 +40,7 @@ const SingleProductPageSlider = () => {
         <Flex>
             <Box className={styles.border1}>
                <Box className={styles.bordercolor}>
-               <img src={product.img1} alt="" />
+               <img className={styles.productimg} src={product.img1} alt="" />
                </Box>
                <Flex className={styles.smallboxflex}>
                  <Box className={styles.smallbox}><img src={product.img1} alt="" /></Box>
@@ -49,7 +49,7 @@ const SingleProductPageSlider = () => {
                </Flex>
             </Box>
             <Box className={styles.sideinfo}>
-                <h2 >{product.title}</h2>
+                <h2  >{product.title}</h2>
                  <Flex><AiFillStar className={styles.starbig} />
                  <AiFillStar className={styles.starbig} />
                  <AiFillStar className={styles.starbig} />
@@ -57,13 +57,15 @@ const SingleProductPageSlider = () => {
                  <AiFillStar className={styles.starbig} />
                  <p className={styles.upsidehea}>(1220 ratings)</p></Flex>
               <Flex gap={"300px"}>
-              <h3>price pay-${product.mrp}</h3>
+              <h2 className={styles.price}>${product.mrp}</h2>
               
               <button className={styles.addtocart}>Add To Cart</button>
               </Flex>
 
               <h6 className={styles.deliverys}>Delivery by Tomorrow, before 10:00 pm</h6>
-              <hr />
+              <br />
+              <br />
+              <hr className={styles.line}/>
             </Box>
         </Flex>
         <hr />

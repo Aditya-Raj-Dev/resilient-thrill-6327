@@ -21,14 +21,14 @@
  
     width: 100%;
     height: 270px;
-    border: 1px solid gray;
+    border: 1px solid rgb(178, 167, 167);
 
     
 }
 
 .smallbox{
      width: 55px;
-     height: 55px;
+     height: 45px;
      border: 1px solid gray;
      border-radius: 10px;
      margin-left: 10px;
@@ -126,6 +126,7 @@
     height: 40px;
     color: white;
     background-color: #169f98;
+    font-weight: bold;
     border-radius: 10px;
 }
 .sideinfo{
@@ -137,4 +138,20 @@
 }
 .sideinfo h6{
     text-align: start;
+}
+.productimg {
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 70px;
+
+}
+.price {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.line {
+    height: 100px;
+    
+    color: black;
 }
