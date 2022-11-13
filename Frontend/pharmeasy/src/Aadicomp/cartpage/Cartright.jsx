@@ -2,12 +2,19 @@ import React from 'react'
 import "./cartleft.css"
 import { FcHome } from 'react-icons/fc';
 import { Button, ButtonGroup } from '@chakra-ui/react'
+import { useSelector } from 'react-redux';
 
 
 const CartRight = () => {
+  const data=useSelector((state)=>state.cartreducer.data)
+  const sum = data.reduce(function (result, item) {
+    return result + item.mrp;
+  }, 0);
+  console.log(sum)
   return (
     <div className='aadicart'>
         <div>
+          
           {/* Address */}
              <div className='address'>
                 <div style={{marginTop:"6px"}}>
@@ -15,7 +22,7 @@ const CartRight = () => {
                 </div>
                 <div>
                   <h3 className='delivery'>Deliver to Home</h3>
-                  <h4 className='deliveryadd'>811202 imajkdf </h4>
+                  <h4 className='deliveryadd'>811202  </h4>
                 </div>
                 <div>
                 <h3 className='addchange'>CHANGE</h3>
@@ -40,7 +47,7 @@ const CartRight = () => {
               <div className='totalsummary'>
                 <div>
                   <p>Cart Value</p>
-                  <h4>₹207.64</h4>
+                  <h4>₹{sum}</h4>
                 </div>
                 <br />
                  <hr />
@@ -52,7 +59,7 @@ const CartRight = () => {
                 <hr />
                 <div>
                   <p>Amount to be paid</p>
-                  <h4>₹256.64</h4>
+                  <h4>₹{sum+49}</h4>
                 </div>
               </div>
              </div>
