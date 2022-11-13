@@ -4,7 +4,7 @@ const GetCart=async (req,res)=>{
    const data= await CartModel.find()
     res.send({"data":data})
 }
-
+/// cart code****
 const Postcart=async(req,res)=>{
  const {id, title, img1,img2,img3,ancestor, mrp,strike,discount, qty}=req.body;
  const new_data= CartModel({
