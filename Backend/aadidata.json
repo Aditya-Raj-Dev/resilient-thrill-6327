@@ -704,11 +704,7 @@
           "price":161.5,
           "cost": 170,
           "off": "5% off"
-        } 
-      ],
-
-      "ayurvedic": [
-        {
+        } , {
           "id": "a116",
           "name": "Baidyanath Nagpur Aloe Vera Juice With Pulp, Boost Immunity, Better Digestion, No Added Sugar - 1 L",
           "img": ["https://cdn01.pharmeasy.in/dam/products_otc/B21539/baidyanath-nagpur-aloe-vera-juice-with-pulp-for-immunity-better-digestion-1000-ml-2-1654090474.jpg?dim=700x0&dpr=1&q=100",
@@ -1415,6 +1411,10 @@
           "price":161.5,
           "cost": 170,
           "off": "5% off"
-        } 
+        }
       ]
+
+      
+        
+      
 }

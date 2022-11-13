@@ -7,6 +7,7 @@ const bcrypt = require("bcrypt");
 var jwt = require("jsonwebtoken");
 const {CartRouter}=require("./Routes/Cart.route");
 const { CartModel } = require("./Model/cart.model");
+const {Shopmodel} =require("./Model/shopmodel")
 
 const app = express();
 app.use(cors())
@@ -20,12 +21,17 @@ app.get("/",(req,res)=>{
 
 app.post("/shop",async (req, res) => {
   const {id,img,title}=req.body;
-  const new_products=new CartModel({
+  const new_products= Shopmodel({
     id,img,title
   })
   await new_products.save()
 
   res.send({ "msg": "Welcome to Pharmesy" });
+});
+
+app.get("/shop",async (req, res) => {
+  const new_products= await Shopmodel.find()
+  res.send({ "msg": "Welcome to Pharmesy","data":new_products });
 });
 
 //   ****SIGNUP ROUTE***** //
@@ -98,7 +104,8 @@ app.post("/login", async (req, res) => {
 
 
 
-const PORT = process.env.PORT || 8080;
+// const PORT = process.env.PORT || 8080;
+const PORT =  8080;
 app.listen(PORT, async () => {
   try {
     await connection;
